@@ -1,4 +1,6 @@
 import re
+from urllib.parse import parse_qs, unquote, urlparse
+
 import scrapy
 from TVShow_crawler.items import TvshowCrawlerItem
 
@@ -29,7 +31,8 @@ class ShowSpider(scrapy.Spider):
             if url in self._seen_show_links:
                 continue
             self._seen_show_links.add(url)
-            yield scrapy.Request(url, callback=self.parse_show)
+            # Use Selenium to render the show detail page
+            yield scrapy.Request(url, callback=self.parse_show, meta={"selenium": True})
 
     def parse_show(self, response):
         item = TvshowCrawlerItem()
@@ -42,59 +45,71 @@ class ShowSpider(scrapy.Spider):
 
         # --- Rating ---
         # Adjust selector to match the actual rating element on the page
-        rating_text = (
-            response.css(".rating::text").get()
-            or response.css('[class*="rating"]::text').get()
-            or response.css('[class*="score"]::text').get()
-        )
+        rating_text = response.css("strong::text").get()
         if rating_text:
-            match = re.search(r"[\d.]+", rating_text.strip())
+            match = re.search(r"([\d.]+)", rating_text.strip())
             if match:
-                item["rating"] = float(match.group())
+                item["rating"] = float(match.group(1))
 
         # --- Poster ---
-        # Tries <img> inside a poster/cover wrapper, falls back to og:image meta tag
-        poster_url = (
-            response.css('[class*="poster"] img::attr(src)').get()
-            or response.css('[class*="cover"] img::attr(src)').get()
-            or response.css('meta[property="og:image"]::attr(content)').get()
-        )
+        poster_url = None
+        if showname:
+            poster_url = response.xpath('//img[@alt=$name]/@src', name=showname.strip()).get()
+
+        poster_url = poster_url or response.css('meta[property="og:image"]::attr(content)').get()
+
         if poster_url:
+            if "_next/image" in poster_url:
+                parsed = urlparse(poster_url)
+                query_url = parse_qs(parsed.query).get("url")
+                if query_url:
+                    poster_url = unquote(query_url[0])
             item["poster"] = response.urljoin(poster_url)
 
-        # --- Seasons & Episodes ---
-        # Each season block is expected to have a heading and a list of episode rows
-        seasons_data = []
-        season_blocks = response.css('[class*="season"]')
+        # --- Seasons & Episodes (via Selenium) ---
+        # Try to extract from rendered chart using browser automation
+        try:
+            driver = response.meta.get("driver")
+            if driver:
+                # Wait for chart to load
+                from selenium.webdriver.support.ui import WebDriverWait
+                from selenium.webdriver.support import expected_conditions as EC
+                from selenium.webdriver.common.by import By
 
-        for season in season_blocks:
-            # Collect episode names within this season block
-            episode_names = [
-                ep.strip()
-                for ep in season.css(
-                    '[class*="episode"] [class*="title"]::text, '
-                    '[class*="episode"] [class*="name"]::text, '
-                    'li [class*="name"]::text, '
-                    'li::text'
-                ).getall()
-                if ep.strip()
-            ]
-            if episode_names:
-                seasons_data.append(episode_names)
+                wait = WebDriverWait(driver, 10)
+                wait.until(EC.presence_of_all_elements_located((By.XPATH, "//text()[contains(., 'S')]")))
 
-        if seasons_data:
-            item["seasons"] = len(seasons_data)
-            item["episodes"] = [len(eps) for eps in seasons_data]
-            item["episode_names"] = seasons_data
-        else:
-            # Fallback: try to read a plain season count from the page
-            season_count_text = (
-                response.css('[class*="seasons"] span::text').get()
-                or response.css('[class*="season-count"]::text').get()
-            )
-            if season_count_text:
-                match = re.search(r"\d+", season_count_text)
-                if match:
-                    item["seasons"] = int(match.group())
+                # Extract season numbers from chart (S1, S2, S3, ...)
+                season_labels = driver.execute_script(
+                    """
+                    let seasonText = document.body.innerText;
+                    let matches = seasonText.match(/S\\d+/g);
+                    return matches ? [...new Set(matches)] : [];
+                    """
+                )
+                if season_labels:
+                    season_nums = [int(s[1:]) for s in season_labels]
+                    item["seasons"] = max(season_nums) if season_nums else None
+
+                # Try to extract episode data from the chart
+                episode_data = driver.execute_script(
+                    """
+                    let episodes = [];
+                    let rect = document.querySelector('[class*="recharts"]');
+                    if (rect) {
+                        let points = rect.querySelectorAll('circle');
+                        points.forEach(p => {
+                            let title = p.getAttribute('title') || p.getAttribute('data-title') || '';
+                            if (title) episodes.push(title);
+                        });
+                    }
+                    return episodes.length > 0 ? episodes : null;
+                    """
+                )
+                if episode_data:
+                    item["episode_names"] = [episode_data]
+                    item["episodes"] = [len(episode_data)]
+        except Exception as e:
+            self.logger.warning(f"Error extracting episode data via Selenium: {e}")
 
         yield item

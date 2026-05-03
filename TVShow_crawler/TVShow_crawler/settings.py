@@ -44,6 +44,14 @@ AUTOTHROTTLE_TARGET_CONCURRENCY = 1.0
 
 LOG_LEVEL = "INFO"
 
+# Selenium configuration
+SELENIUM_DRIVER_NAME = "chrome"
+# SELENIUM_DRIVER_EXECUTABLE_PATH = "path/to/chromedriver"  # Uncomment if chromedriver not in PATH
+
+DOWNLOADER_MIDDLEWARES = {
+    "scrapy_selenium.SeleniumMiddleware": 585,
+}
+
 # Disable cookies (enabled by default)
 #COOKIES_ENABLED = False
 
