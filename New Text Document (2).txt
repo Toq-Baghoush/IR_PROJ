@@ -1,0 +1,931 @@
+2026-05-04 22:40:51 [shows] INFO: Show: The Fall, seasons=3, episodes=6, found 0 IMDB links
+2026-05-04 22:40:51 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/49010-the-fall
+2026-05-04 22:40:51 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:40:55 [shows] INFO: Show: Candy Candy, seasons=None, episodes=115, found 0 IMDB links
+2026-05-04 22:40:55 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/9160-candy-candy
+2026-05-04 22:40:55 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:40:58 [shows] INFO: Show: Happy Valley, seasons=3, episodes=6, found 0 IMDB links
+2026-05-04 22:40:58 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/61244-happy-valley
+2026-05-04 22:40:58 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:41:01 [shows] INFO: Show: My First Girlfriend Is a Gal, seasons=1, episodes=11, found 0 IMDB links
+2026-05-04 22:41:01 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/72296-my-first-girlfriend-is-a-gal
+2026-05-04 22:41:01 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:41:05 [shows] INFO: Show: AnoHana: The Flower We Saw That Day, seasons=1, episodes=11, found 0 IMDB links
+2026-05-04 22:41:05 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/39434-anohana-the-flower-we-saw-that-day
+2026-05-04 22:41:05 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:41:08 [shows] INFO: Show: xxxHOLiC, seasons=2, episodes=25, found 0 IMDB links
+2026-05-04 22:41:08 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/36250-xxxholic
+2026-05-04 22:41:08 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:41:11 [shows] INFO: Show: High School Musical: The Musical: The Series, seasons=4, episodes=12, found 0 IMDB links
+2026-05-04 22:41:11 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/85801-high-school-musical-the-musical-the-series
+2026-05-04 22:41:11 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:41:15 [shows] INFO: Show: The Dark Crystal: Age of Resistance, seasons=1, episodes=10, found 0 IMDB links
+2026-05-04 22:41:15 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/71809-the-dark-crystal-age-of-resistance
+2026-05-04 22:41:15 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:41:18 [shows] INFO: Show: Baby Looney Tunes, seasons=2, episodes=40, found 0 IMDB links
+2026-05-04 22:41:18 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/670-baby-looney-tunes
+2026-05-04 22:41:18 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:41:21 [shows] INFO: Show: The Muppet Show, seasons=5, episodes=24, found 0 IMDB links
+2026-05-04 22:41:21 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/4459-the-muppet-show
+2026-05-04 22:41:21 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:41:23 [shows] INFO: Show: Kamisama Kiss, seasons=2, episodes=13, found 0 IMDB links
+2026-05-04 22:41:23 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/62741-kamisama-kiss
+2026-05-04 22:41:23 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:41:29 [shows] INFO: Show: Those About to Die, seasons=1, episodes=10, found 0 IMDB links
+2026-05-04 22:41:29 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/218589-those-about-to-die
+2026-05-04 22:41:29 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:41:33 [shows] INFO: Show: The Flash, seasons=None, episodes=21, found 0 IMDB links
+2026-05-04 22:41:33 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/236-the-flash
+2026-05-04 22:41:33 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:41:37 [shows] INFO: Show: Magnificent Century: Kösem, seasons=2, episodes=30, found 0 IMDB links
+2026-05-04 22:41:37 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/60930-magnificent-century-ksem
+2026-05-04 22:41:37 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:41:40 [shows] INFO: Show: Cowboy Bebop, seasons=1, episodes=10, found 0 IMDB links
+2026-05-04 22:41:40 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/84469-cowboy-bebop
+2026-05-04 22:41:40 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:41:44 [shows] INFO: Show: Into the Badlands, seasons=3, episodes=16, found 0 IMDB links
+2026-05-04 22:41:44 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/47450-into-the-badlands
+2026-05-04 22:41:44 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:41:47 [shows] INFO: Show: Gossip Girl, seasons=2, episodes=12, found 0 IMDB links
+2026-05-04 22:41:47 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/95249-gossip-girl
+2026-05-04 22:41:47 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:41:47 [scrapy.extensions.logstats] INFO: Crawled 957 pages (at 17 pages/min), scraped 922 items (at 17 items/min)
+2026-05-04 22:41:51 [shows] INFO: Show: Counterpart, seasons=2, episodes=10, found 0 IMDB links
+2026-05-04 22:41:51 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/63646-counterpart
+2026-05-04 22:41:51 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:41:54 [shows] INFO: Show: Boruto: Naruto Next Generations, seasons=None, episodes=293, found 0 IMDB links
+2026-05-04 22:41:54 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/70881-boruto-naruto-next-generations
+2026-05-04 22:41:54 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:41:57 [shows] INFO: Show: BLUE EYE SAMURAI, seasons=2, episodes=8, found 0 IMDB links
+2026-05-04 22:41:57 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/225180-blue-eye-samurai
+2026-05-04 22:41:57 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:42:01 [shows] INFO: Show: Dejémonos de Vargas, seasons=None, episodes=74, found 0 IMDB links
+2026-05-04 22:42:01 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/206164-dejmonos-de-vargas
+2026-05-04 22:42:01 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:42:04 [shows] INFO: Show: Justice League, seasons=2, episodes=26, found 0 IMDB links
+2026-05-04 22:42:04 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/1618-justice-league
+2026-05-04 22:42:04 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:42:08 [shows] INFO: Show: Don't Trust the B---- in Apartment 23, seasons=2, episodes=19, found 0 IMDB links
+2026-05-04 22:42:08 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/39331-dont-trust-the-b-in-apartment-23
+2026-05-04 22:42:08 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:42:11 [shows] INFO: Show: Dragon Ball Z Kai, seasons=2, episodes=98, found 0 IMDB links
+2026-05-04 22:42:11 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/61709-dragon-ball-z-kai
+2026-05-04 22:42:11 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:42:15 [shows] INFO: Show: Young Royals, seasons=3, episodes=6, found 0 IMDB links
+2026-05-04 22:42:15 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/125910-young-royals
+2026-05-04 22:42:15 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:42:19 [shows] INFO: Show: Sonic Prime, seasons=3, episodes=8, found 0 IMDB links
+2026-05-04 22:42:19 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/115577-sonic-prime
+2026-05-04 22:42:19 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:42:21 [shows] INFO: Show: Sharp Objects, seasons=1, episodes=8, found 0 IMDB links
+2026-05-04 22:42:22 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/70453-sharp-objects
+2026-05-04 22:42:22 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:42:24 [shows] INFO: Show: El Chapo, seasons=3, episodes=13, found 0 IMDB links
+2026-05-04 22:42:24 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/71411-el-chapo
+2026-05-04 22:42:24 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:42:27 [shows] INFO: Show: Murderbot, seasons=2, episodes=10, found 0 IMDB links
+2026-05-04 22:42:27 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/241554-murderbot
+2026-05-04 22:42:27 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:42:30 [shows] INFO: Show: The Walking Dead: The Ones Who Live, seasons=1, episodes=6, found 0 IMDB links
+2026-05-04 22:42:30 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/206586-the-walking-dead-the-ones-who-live
+2026-05-04 22:42:30 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:42:33 [shows] INFO: Show: Secret Invasion, seasons=1, episodes=6, found 0 IMDB links
+2026-05-04 22:42:33 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/114472-secret-invasion
+2026-05-04 22:42:33 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:42:36 [shows] INFO: Show: The Recruit, seasons=2, episodes=8, found 0 IMDB links
+2026-05-04 22:42:36 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/210916-the-recruit
+2026-05-04 22:42:36 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:42:39 [shows] INFO: Show: Primeval, seasons=5, episodes=10, found 0 IMDB links
+2026-05-04 22:42:39 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/10268-primeval
+2026-05-04 22:42:39 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:42:43 [shows] INFO: Show: Daria, seasons=5, episodes=14, found 0 IMDB links
+2026-05-04 22:42:43 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/2131-daria
+2026-05-04 22:42:43 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:42:46 [shows] INFO: Show: 11.22.63, seasons=1, episodes=8, found 0 IMDB links
+2026-05-04 22:42:46 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/64464-112263
+2026-05-04 22:42:46 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:42:49 [shows] INFO: Show: SAINT SEIYA: Knights of the Zodiac, seasons=3, episodes=12, found 0 IMDB links
+2026-05-04 22:42:49 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/90855-saint-seiya-knights-of-the-zodiac
+2026-05-04 22:42:49 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:42:49 [scrapy.extensions.logstats] INFO: Crawled 976 pages (at 19 pages/min), scraped 941 items (at 19 items/min)
+2026-05-04 22:42:54 [shows] INFO: Show: The House of Flowers, seasons=3, episodes=13, found 0 IMDB links
+2026-05-04 22:42:54 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/80169-the-house-of-flowers
+2026-05-04 22:42:54 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:42:57 [shows] INFO: Show: Akashic Records of Bastard Magic Instructor, seasons=1, episodes=12, found 0 IMDB links
+2026-05-04 22:42:57 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/70637-akashic-records-of-bastard-magic-instructor
+2026-05-04 22:42:57 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:43:01 [shows] INFO: Show: Dead Like Me, seasons=2, episodes=15, found 0 IMDB links
+2026-05-04 22:43:01 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/2566-dead-like-me
+2026-05-04 22:43:01 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:43:04 [shows] INFO: Show: Hanna, seasons=3, episodes=8, found 0 IMDB links
+2026-05-04 22:43:04 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/54155-hanna
+2026-05-04 22:43:04 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:43:07 [shows] INFO: Show: She-Hulk: Attorney at Law, seasons=1, episodes=9, found 0 IMDB links
+2026-05-04 22:43:07 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/92783-she-hulk-attorney-at-law
+2026-05-04 22:43:07 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:43:10 [shows] INFO: Show: Marco Polo, seasons=2, episodes=10, found 0 IMDB links
+2026-05-04 22:43:10 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/60699-marco-polo
+2026-05-04 22:43:10 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:43:14 [shows] INFO: Show: Extras, seasons=2, episodes=7, found 0 IMDB links
+2026-05-04 22:43:14 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/2693-extras
+2026-05-04 22:43:14 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:43:18 [shows] INFO: Show: Trollhunters: Tales of Arcadia, seasons=3, episodes=26, found 0 IMDB links
+2026-05-04 22:43:18 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/68267-trollhunters-tales-of-arcadia
+2026-05-04 22:43:18 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:43:22 [shows] INFO: Show: The Boarding School, seasons=7, episodes=15, found 0 IMDB links
+2026-05-04 22:43:22 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/4743-the-boarding-school
+2026-05-04 22:43:22 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:43:25 [shows] INFO: Show: Master of None, seasons=3, episodes=10, found 0 IMDB links
+2026-05-04 22:43:25 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/64254-master-of-none
+2026-05-04 22:43:25 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:43:29 [shows] INFO: Show: Saga of Tanya the Evil, seasons=2, episodes=12, found 0 IMDB links
+2026-05-04 22:43:29 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/69346-saga-of-tanya-the-evil
+2026-05-04 22:43:29 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:43:32 [shows] INFO: Show: Knight Rider, seasons=None, episodes=17, found 0 IMDB links
+2026-05-04 22:43:32 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/15655-knight-rider
+2026-05-04 22:43:32 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:43:35 [shows] INFO: Show: Kyle XY, seasons=3, episodes=23, found 0 IMDB links
+2026-05-04 22:43:35 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/219-kyle-xy
+2026-05-04 22:43:35 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:43:38 [shows] INFO: Show: NOS4A2, seasons=2, episodes=10, found 0 IMDB links
+2026-05-04 22:43:38 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/85273-nos4a2
+2026-05-04 22:43:38 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:43:42 [shows] INFO: Show: Alphas, seasons=2, episodes=13, found 0 IMDB links
+2026-05-04 22:43:42 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/39362-alphas
+2026-05-04 22:43:42 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:43:45 [shows] INFO: Show: It's Okay to Not Be Okay, seasons=None, episodes=16, found 0 IMDB links
+2026-05-04 22:43:45 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/96462-its-okay-to-not-be-okay
+2026-05-04 22:43:45 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:43:49 [shows] INFO: Show: The Last Man on Earth, seasons=4, episodes=18, found 0 IMDB links
+2026-05-04 22:43:49 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/61888-the-last-man-on-earth
+2026-05-04 22:43:49 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:43:49 [scrapy.extensions.logstats] INFO: Crawled 993 pages (at 17 pages/min), scraped 958 items (at 17 items/min)
+2026-05-04 22:43:52 [shows] INFO: Show: María la del Barrio, seasons=None, episodes=185, found 0 IMDB links
+2026-05-04 22:43:52 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/12965-mara-la-del-barrio
+2026-05-04 22:43:52 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:43:55 [shows] INFO: Show: Boys Over Flowers, seasons=None, episodes=25, found 0 IMDB links
+2026-05-04 22:43:55 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/16420-boys-over-flowers
+2026-05-04 22:43:55 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:43:58 [shows] INFO: Show: From Dusk Till Dawn: The Series, seasons=3, episodes=10, found 0 IMDB links
+2026-05-04 22:43:58 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/60626-from-dusk-till-dawn-the-series
+2026-05-04 22:43:58 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:44:01 [shows] INFO: Show: Run BTS!, seasons=4, episodes=99, found 0 IMDB links
+2026-05-04 22:44:01 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/77696-run-bts
+2026-05-04 22:44:01 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:44:05 [shows] INFO: Show: Soy tu dueña, seasons=None, episodes=146, found 0 IMDB links
+2026-05-04 22:44:05 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/32218-soy-tu-duea
+2026-05-04 22:44:05 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:44:08 [shows] INFO: Show: Insatiable, seasons=2, episodes=12, found 0 IMDB links
+2026-05-04 22:44:08 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/80743-insatiable
+2026-05-04 22:44:08 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:44:12 [shows] INFO: Show: Foster's Home for Imaginary Friends, seasons=6, episodes=21, found 0 IMDB links
+2026-05-04 22:44:12 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/1720-fosters-home-for-imaginary-friends
+2026-05-04 22:44:12 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:44:14 [shows] INFO: Show: Devilman Crybaby, seasons=1, episodes=10, found 0 IMDB links
+2026-05-04 22:44:14 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/75208-devilman-crybaby
+2026-05-04 22:44:14 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:44:18 [shows] INFO: Show: Don't Mess with the Angel, seasons=None, episodes=194, found 0 IMDB links
+2026-05-04 22:44:18 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/5459-dont-mess-with-the-angel
+2026-05-04 22:44:18 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:44:21 [shows] INFO: Show: Samurai Champloo, seasons=None, episodes=26, found 0 IMDB links
+2026-05-04 22:44:21 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/1063-samurai-champloo
+2026-05-04 22:44:21 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:44:25 [shows] INFO: Show: Bloodline, seasons=3, episodes=13, found 0 IMDB links
+2026-05-04 22:44:25 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/61986-bloodline
+2026-05-04 22:44:25 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:44:29 [shows] INFO: Show: Puella Magi Madoka Magica, seasons=1, episodes=12, found 0 IMDB links
+2026-05-04 22:44:29 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/39218-puella-magi-madoka-magica
+2026-05-04 22:44:29 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:44:31 [shows] INFO: Show: Carnivàle, seasons=2, episodes=12, found 0 IMDB links
+2026-05-04 22:44:31 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/185-carnivle
+2026-05-04 22:44:31 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:44:34 [shows] INFO: Show: Meteor Garden, seasons=None, episodes=50, found 0 IMDB links
+2026-05-04 22:44:34 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/79818-meteor-garden
+2026-05-04 22:44:34 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:44:38 [shows] INFO: Show: Scarlet Heart: Ryeo, seasons=None, episodes=21, found 0 IMDB links
+2026-05-04 22:44:38 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/66433-scarlet-heart-ryeo
+2026-05-04 22:44:38 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:44:42 [shows] INFO: Show: Golden Boy, seasons=1, episodes=6, found 0 IMDB links
+2026-05-04 22:44:42 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/34105-golden-boy
+2026-05-04 22:44:42 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:44:45 [shows] INFO: Show: Fate: The Winx Saga, seasons=2, episodes=7, found 0 IMDB links
+2026-05-04 22:44:45 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/97175-fate-the-winx-saga
+2026-05-04 22:44:45 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:44:48 [shows] INFO: Show: False Identity, seasons=2, episodes=91, found 0 IMDB links
+2026-05-04 22:44:48 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/82809-false-identity
+2026-05-04 22:44:48 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:44:48 [scrapy.extensions.logstats] INFO: Crawled 1011 pages (at 18 pages/min), scraped 976 items (at 18 items/min)
+2026-05-04 22:44:51 [shows] INFO: Show: The Peripheral, seasons=1, episodes=8, found 0 IMDB links
+2026-05-04 22:44:51 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/95403-the-peripheral
+2026-05-04 22:44:51 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:44:54 [shows] INFO: Show: TRIGUN, seasons=None, episodes=26, found 0 IMDB links
+2026-05-04 22:44:54 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/26453-trigun
+2026-05-04 22:44:54 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:44:58 [shows] INFO: Show: Ned's Declassified School Survival Guide, seasons=3, episodes=21, found 0 IMDB links
+2026-05-04 22:44:58 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/1600-neds-declassified-school-survival-guide
+2026-05-04 22:44:58 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:45:01 [shows] INFO: Show: FLCL, seasons=1, episodes=6, found 0 IMDB links
+2026-05-04 22:45:01 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/5895-flcl
+2026-05-04 22:45:01 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:45:04 [shows] INFO: Show: Mr Inbetween, seasons=3, episodes=11, found 0 IMDB links
+2026-05-04 22:45:04 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/81358-mr-inbetween
+2026-05-04 22:45:04 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:45:07 [shows] INFO: Show: Fleabag, seasons=2, episodes=6, found 0 IMDB links
+2026-05-04 22:45:07 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/67070-fleabag
+2026-05-04 22:45:07 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:45:11 [shows] INFO: Show: Love, Chunibyo & Other Delusions!, seasons=2, episodes=13, found 0 IMDB links
+2026-05-04 22:45:11 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/45501-love-chunibyo-other-delusions
+2026-05-04 22:45:11 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:45:14 [shows] INFO: Show: UNTAMED, seasons=2, episodes=6, found 0 IMDB links
+2026-05-04 22:45:14 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/248852-untamed
+2026-05-04 22:45:14 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:45:18 [shows] INFO: Show: The Acolyte, seasons=1, episodes=8, found 0 IMDB links
+2026-05-04 22:45:18 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/114479-the-acolyte
+2026-05-04 22:45:18 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:45:21 [shows] INFO: Show: Inside Job, seasons=2, episodes=10, found 0 IMDB links
+2026-05-04 22:45:21 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/97727-inside-job
+2026-05-04 22:45:21 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:45:24 [shows] INFO: Show: Masters of Horror, seasons=2, episodes=13, found 0 IMDB links
+2026-05-04 22:45:24 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/3470-masters-of-horror
+2026-05-04 22:45:24 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:45:28 [shows] INFO: Show: BNA, seasons=1, episodes=12, found 0 IMDB links
+2026-05-04 22:45:28 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/92592-bna
+2026-05-04 22:45:28 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:45:31 [shows] INFO: Show: Bodyguard, seasons=1, episodes=6, found 0 IMDB links
+2026-05-04 22:45:31 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/80307-bodyguard
+2026-05-04 22:45:31 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:45:34 [shows] INFO: Show: Future Man, seasons=3, episodes=13, found 0 IMDB links
+2026-05-04 22:45:34 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/73157-future-man
+2026-05-04 22:45:34 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:45:37 [shows] INFO: Show: Dinastía Casillas, seasons=None, episodes=92, found 0 IMDB links
+2026-05-04 22:45:37 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/302463-dinasta-casillas
+2026-05-04 22:45:37 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:45:41 [shows] INFO: Show: Violetta, seasons=3, episodes=80, found 0 IMDB links
+2026-05-04 22:45:41 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/61720-violetta
+2026-05-04 22:45:41 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:45:44 [shows] INFO: Show: Angel Beats!, seasons=1, episodes=15, found 0 IMDB links
+2026-05-04 22:45:44 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/42942-angel-beats
+2026-05-04 22:45:44 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:45:47 [shows] INFO: Show: Rocko's Modern Life, seasons=4, episodes=13, found 0 IMDB links
+2026-05-04 22:45:47 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/657-rockos-modern-life
+2026-05-04 22:45:47 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:45:47 [scrapy.extensions.logstats] INFO: Crawled 1029 pages (at 18 pages/min), scraped 994 items (at 18 items/min)
+2026-05-04 22:45:50 [shows] INFO: Show: Vagabond, seasons=None, episodes=16, found 0 IMDB links
+2026-05-04 22:45:50 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/92983-vagabond
+2026-05-04 22:45:50 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:45:53 [shows] INFO: Show: Outer Range, seasons=2, episodes=8, found 0 IMDB links
+2026-05-04 22:45:53 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/113985-outer-range
+2026-05-04 22:45:53 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:45:56 [shows] INFO: Show: Scooby-Doo, Where Are You!, seasons=2, episodes=17, found 0 IMDB links
+2026-05-04 22:45:56 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/926-scooby-doo-where-are-you
+2026-05-04 22:45:56 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:46:00 [shows] INFO: Show: Sam & Cat, seasons=None, episodes=35, found 0 IMDB links
+2026-05-04 22:46:00 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/45666-sam-cat
+2026-05-04 22:46:00 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:46:04 [shows] INFO: Show: Sailor Moon Crystal, seasons=3, episodes=13, found 0 IMDB links
+2026-05-04 22:46:04 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/61339-sailor-moon-crystal
+2026-05-04 22:46:04 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:46:07 [shows] INFO: Show: SpongeBob SquarePants, seasons=16, episodes=26, found 0 IMDB links
+2026-05-04 22:46:07 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/387-spongebob-squarepants
+2026-05-04 22:46:07 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:46:10 [shows] INFO: Show: Dark Matter, seasons=2, episodes=10, found 0 IMDB links
+2026-05-04 22:46:10 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/196322-dark-matter
+2026-05-04 22:46:10 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:46:14 [shows] INFO: Show: La Doña, seasons=2, episodes=121, found 0 IMDB links
+2026-05-04 22:46:14 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/68878-la-doa
+2026-05-04 22:46:14 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:46:18 [shows] INFO: Show: Firefly Lane, seasons=2, episodes=16, found 0 IMDB links
+2026-05-04 22:46:18 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/87049-firefly-lane
+2026-05-04 22:46:18 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:46:21 [shows] INFO: Show: Aaahh!!! Real Monsters, seasons=4, episodes=13, found 0 IMDB links
+2026-05-04 22:46:21 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/2429-aaahh-real-monsters
+2026-05-04 22:46:21 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:46:25 [shows] INFO: Show: El Capo, seasons=4, episodes=90, found 0 IMDB links
+2026-05-04 22:46:25 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/31268-el-capo
+2026-05-04 22:46:25 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:46:28 [shows] INFO: Show: Descendants of the Sun, seasons=None, episodes=19, found 0 IMDB links
+2026-05-04 22:46:28 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/65143-descendants-of-the-sun
+2026-05-04 22:46:28 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:46:31 [shows] INFO: Show: The Marvelous Misadventures of Flapjack, seasons=3, episodes=34, found 0 IMDB links
+2026-05-04 22:46:31 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/6673-the-marvelous-misadventures-of-flapjack
+2026-05-04 22:46:31 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:46:35 [shows] INFO: Show: My Life with the Walter Boys, seasons=3, episodes=10, found 0 IMDB links
+2026-05-04 22:46:35 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/199001-my-life-with-the-walter-boys
+2026-05-04 22:46:35 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:46:38 [shows] INFO: Show: Santa Clarita Diet, seasons=3, episodes=10, found 0 IMDB links
+2026-05-04 22:46:38 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/69470-santa-clarita-diet
+2026-05-04 22:46:38 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:46:42 [shows] INFO: Show: The Purge, seasons=2, episodes=10, found 0 IMDB links
+2026-05-04 22:46:42 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/80213-the-purge
+2026-05-04 22:46:42 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:46:46 [shows] INFO: Show: Food Wars! Shokugeki no Soma, seasons=5, episodes=26, found 0 IMDB links
+2026-05-04 22:46:46 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/62273-food-wars-shokugeki-no-soma
+2026-05-04 22:46:46 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:46:48 [shows] INFO: Show: Seraph of the End, seasons=3, episodes=12, found 0 IMDB links
+2026-05-04 22:46:48 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/62255-seraph-of-the-end
+2026-05-04 22:46:48 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:46:48 [scrapy.extensions.logstats] INFO: Crawled 1047 pages (at 18 pages/min), scraped 1012 items (at 18 items/min)
+2026-05-04 22:46:53 [shows] INFO: Show: The Way of the Househusband, seasons=2, episodes=10, found 0 IMDB links
+2026-05-04 22:46:53 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/112160-the-way-of-the-househusband
+2026-05-04 22:46:53 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:46:57 [shows] INFO: Show: Nisekoi, seasons=2, episodes=20, found 0 IMDB links
+2026-05-04 22:46:57 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/62640-nisekoi
+2026-05-04 22:46:57 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:47:00 [shows] INFO: Show: Vinland Saga, seasons=2, episodes=24, found 0 IMDB links
+2026-05-04 22:47:00 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/88803-vinland-saga
+2026-05-04 22:47:00 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:47:04 [shows] INFO: Show: Alex Rider, seasons=3, episodes=8, found 0 IMDB links
+2026-05-04 22:47:04 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/99799-alex-rider
+2026-05-04 22:47:04 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:47:06 [shows] INFO: Show: Distilling Love, seasons=None, episodes=170, found 0 IMDB links
+2026-05-04 22:47:06 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/12568-distilling-love
+2026-05-04 22:47:06 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:47:09 [shows] INFO: Show: Himouto! Umaru-chan, seasons=2, episodes=14, found 0 IMDB links
+2026-05-04 22:47:09 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/67126-himouto-umaru-chan
+2026-05-04 22:47:09 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:47:13 [shows] INFO: Show: The Heirs, seasons=None, episodes=20, found 0 IMDB links
+2026-05-04 22:47:13 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/48462-the-heirs
+2026-05-04 22:47:13 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:47:17 [shows] INFO: Show: The Order, seasons=2, episodes=10, found 0 IMDB links
+2026-05-04 22:47:17 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/82104-the-order
+2026-05-04 22:47:17 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:47:21 [shows] INFO: Show: Task, seasons=1, episodes=7, found 0 IMDB links
+2026-05-04 22:47:21 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/228305-task
+2026-05-04 22:47:21 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:47:24 [shows] INFO: Show: Mare of Easttown, seasons=2, episodes=7, found 0 IMDB links
+2026-05-04 22:47:24 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/115004-mare-of-easttown
+2026-05-04 22:47:24 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:47:26 [shows] INFO: Show: Home Before Dark, seasons=2, episodes=10, found 0 IMDB links
+2026-05-04 22:47:26 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/98161-home-before-dark
+2026-05-04 22:47:26 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:47:30 [shows] INFO: Show: Kingdom, seasons=2, episodes=6, found 0 IMDB links
+2026-05-04 22:47:30 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/70593-kingdom
+2026-05-04 22:47:30 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:47:34 [shows] INFO: Show: The New Batman Adventures, seasons=2, episodes=13, found 0 IMDB links
+2026-05-04 22:47:34 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/4625-the-new-batman-adventures
+2026-05-04 22:47:34 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:47:37 [shows] INFO: Show: It, seasons=1, episodes=2, found 0 IMDB links
+2026-05-04 22:47:37 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/19614-it
+2026-05-04 22:47:37 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:47:40 [shows] INFO: Show: Hometown Cha-Cha-Cha, seasons=None, episodes=16, found 0 IMDB links
+2026-05-04 22:47:40 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/128883-hometown-cha-cha-cha
+2026-05-04 22:47:40 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:47:44 [shows] INFO: Show: Marvel Zombies, seasons=2, episodes=4, found 0 IMDB links
+2026-05-04 22:47:44 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/138505-marvel-zombies
+2026-05-04 22:47:44 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:47:46 [shows] INFO: Show: DreamWorks Dragons, seasons=2, episodes=20, found 0 IMDB links
+2026-05-04 22:47:46 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/44305-dreamworks-dragons
+2026-05-04 22:47:46 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:47:50 [shows] INFO: Show: Jesus of Nazareth, seasons=1, episodes=4, found 0 IMDB links
+2026-05-04 22:47:50 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/19649-jesus-of-nazareth
+2026-05-04 22:47:50 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:47:50 [scrapy.extensions.logstats] INFO: Crawled 1065 pages (at 18 pages/min), scraped 1030 items (at 18 items/min)
+2026-05-04 22:47:52 [shows] INFO: Show: Orange, seasons=1, episodes=13, found 0 IMDB links
+2026-05-04 22:47:52 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/66958-orange
+2026-05-04 22:47:52 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:47:55 [shows] INFO: Show: Scream: The TV Series, seasons=3, episodes=13, found 0 IMDB links
+2026-05-04 22:47:55 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/62823-scream-the-tv-series
+2026-05-04 22:47:55 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:47:58 [shows] INFO: Show: Watchmen, seasons=1, episodes=9, found 0 IMDB links
+2026-05-04 22:47:58 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/79788-watchmen
+2026-05-04 22:47:58 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:48:01 [shows] INFO: Show: Tokyo Vice, seasons=2, episodes=10, found 0 IMDB links
+2026-05-04 22:48:01 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/90296-tokyo-vice
+2026-05-04 22:48:01 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:48:05 [shows] INFO: Show: Chowder, seasons=3, episodes=28, found 0 IMDB links
+2026-05-04 22:48:05 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/9907-chowder
+2026-05-04 22:48:05 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:48:09 [shows] INFO: Show: Unbelievable, seasons=1, episodes=8, found 0 IMDB links
+2026-05-04 22:48:09 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/91275-unbelievable
+2026-05-04 22:48:09 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:48:12 [shows] INFO: Show: Hercai, seasons=3, episodes=38, found 0 IMDB links
+2026-05-04 22:48:12 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/87623-hercai
+2026-05-04 22:48:12 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:48:15 [shows] INFO: Show: Claymore, seasons=None, episodes=26, found 0 IMDB links
+2026-05-04 22:48:15 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/34791-claymore
+2026-05-04 22:48:15 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:48:19 [shows] INFO: Show: Guillermo del Toro's Cabinet of Curiosities, seasons=1, episodes=8, found 0 IMDB links
+2026-05-04 22:48:19 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/83659-guillermo-del-toros-cabinet-of-curiosities
+2026-05-04 22:48:19 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:48:21 [shows] INFO: Show: Acapulco, seasons=4, episodes=10, found 0 IMDB links
+2026-05-04 22:48:21 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/133727-acapulco
+2026-05-04 22:48:21 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:48:25 [shows] INFO: Show: Killjoys, seasons=5, episodes=10, found 0 IMDB links
+2026-05-04 22:48:25 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/62413-killjoys
+2026-05-04 22:48:25 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:48:29 [shows] INFO: Show: Shaman King, seasons=None, episodes=64, found 0 IMDB links
+2026-05-04 22:48:29 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/40143-shaman-king
+2026-05-04 22:48:29 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:48:33 [shows] INFO: Show: Wonder Woman, seasons=3, episodes=24, found 0 IMDB links
+2026-05-04 22:48:33 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/4331-wonder-woman
+2026-05-04 22:48:33 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:48:36 [shows] INFO: Show: Servant, seasons=4, episodes=10, found 0 IMDB links
+2026-05-04 22:48:36 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/88055-servant
+2026-05-04 22:48:36 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:48:40 [shows] INFO: Show: La Reina del Sur, seasons=3, episodes=63, found 0 IMDB links
+2026-05-04 22:48:40 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/31586-la-reina-del-sur
+2026-05-04 22:48:40 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:48:43 [shows] INFO: Show: Devil May Cry, seasons=2, episodes=8, found 0 IMDB links
+2026-05-04 22:48:43 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/235930-devil-may-cry
+2026-05-04 22:48:43 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:48:46 [shows] INFO: Show: Marvel's Runaways, seasons=3, episodes=13, found 0 IMDB links
+2026-05-04 22:48:46 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/67466-marvels-runaways
+2026-05-04 22:48:46 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:48:50 [shows] INFO: Show: Mr. Queen, seasons=None, episodes=20, found 0 IMDB links
+2026-05-04 22:48:50 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/108261-mr-queen
+2026-05-04 22:48:50 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:48:50 [scrapy.extensions.logstats] INFO: Crawled 1083 pages (at 18 pages/min), scraped 1048 items (at 18 items/min)
+2026-05-04 22:48:53 [shows] INFO: Show: Castlevania, seasons=4, episodes=10, found 0 IMDB links
+2026-05-04 22:48:53 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/71024-castlevania
+2026-05-04 22:48:53 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:48:56 [shows] INFO: Show: Big Shot, seasons=2, episodes=10, found 0 IMDB links
+2026-05-04 22:48:56 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/96716-big-shot
+2026-05-04 22:48:56 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:49:00 [shows] INFO: Show: Presumed Innocent, seasons=2, episodes=8, found 0 IMDB links
+2026-05-04 22:49:00 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/156933-presumed-innocent
+2026-05-04 22:49:00 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:49:04 [shows] INFO: Show: Pushing Daisies, seasons=3, episodes=13, found 0 IMDB links
+2026-05-04 22:49:04 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/5639-pushing-daisies
+2026-05-04 22:49:04 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:49:06 [shows] INFO: Show: POSE, seasons=3, episodes=10, found 0 IMDB links
+2026-05-04 22:49:06 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/79084-pose
+2026-05-04 22:49:06 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:49:09 [shows] INFO: Show: Captain Tsubasa, seasons=6, episodes=47, found 0 IMDB links
+2026-05-04 22:49:09 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/25707-captain-tsubasa
+2026-05-04 22:49:09 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:49:13 [shows] INFO: Show: Interview with the Vampire, seasons=3, episodes=8, found 0 IMDB links
+2026-05-04 22:49:13 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/128098-interview-with-the-vampire
+2026-05-04 22:49:13 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:49:16 [shows] INFO: Show: The Spectacular Spider-Man, seasons=2, episodes=13, found 0 IMDB links
+2026-05-04 22:49:16 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/3854-the-spectacular-spider-man
+2026-05-04 22:49:16 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:49:19 [shows] INFO: Show: The Walking Dead: Dead City, seasons=3, episodes=8, found 0 IMDB links
+2026-05-04 22:49:19 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/194583-the-walking-dead-dead-city
+2026-05-04 22:49:19 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:49:22 [shows] INFO: Show: Raised by Wolves, seasons=2, episodes=10, found 0 IMDB links
+2026-05-04 22:49:22 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/85723-raised-by-wolves
+2026-05-04 22:49:22 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:49:24 [shows] INFO: Show: Ahsoka, seasons=2, episodes=8, found 0 IMDB links
+2026-05-04 22:49:24 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/114461-ahsoka
+2026-05-04 22:49:24 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:49:28 [shows] INFO: Show: Cyberpunk: Edgerunners, seasons=2, episodes=10, found 0 IMDB links
+2026-05-04 22:49:28 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/105248-cyberpunk-edgerunners
+2026-05-04 22:49:28 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:49:30 [shows] INFO: Show: My Love Story!!, seasons=None, episodes=24, found 0 IMDB links
+2026-05-04 22:49:30 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/62565-my-love-story
+2026-05-04 22:49:30 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:49:33 [shows] INFO: Show: Locke & Key, seasons=3, episodes=10, found 0 IMDB links
+2026-05-04 22:49:33 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/86423-locke-key
+2026-05-04 22:49:33 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:49:37 [shows] INFO: Show: The Shannara Chronicles, seasons=2, episodes=10, found 0 IMDB links
+2026-05-04 22:49:37 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/64122-the-shannara-chronicles
+2026-05-04 22:49:37 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:49:41 [shows] INFO: Show: The Familiar of Zero, seasons=1, episodes=13, found 0 IMDB links
+2026-05-04 22:49:41 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/35753-the-familiar-of-zero
+2026-05-04 22:49:41 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:49:44 [shows] INFO: Show: The Disastrous Life of Saiki K., seasons=3, episodes=120, found 0 IMDB links
+2026-05-04 22:49:44 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/67676-the-disastrous-life-of-saiki-k
+2026-05-04 22:49:44 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:49:47 [shows] INFO: Show: Love, Victor, seasons=3, episodes=10, found 0 IMDB links
+2026-05-04 22:49:47 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/97186-love-victor
+2026-05-04 22:49:47 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:49:50 [shows] INFO: Show: Ninja Kamui, seasons=1, episodes=13, found 0 IMDB links
+2026-05-04 22:49:50 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/202284-ninja-kamui
+2026-05-04 22:49:50 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:49:50 [scrapy.extensions.logstats] INFO: Crawled 1102 pages (at 19 pages/min), scraped 1067 items (at 19 items/min)
+2026-05-04 22:49:56 [shows] INFO: Show: The Suite Life on Deck, seasons=3, episodes=28, found 0 IMDB links
+2026-05-04 22:49:56 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/15079-the-suite-life-on-deck
+2026-05-04 22:49:56 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:50:08 [shows] INFO: Show: Shadow and Bone, seasons=2, episodes=8, found 0 IMDB links
+2026-05-04 22:50:08 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/85720-shadow-and-bone
+2026-05-04 22:50:08 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:50:15 [shows] INFO: Show: Mazinger Z, seasons=None, episodes=92, found 0 IMDB links
+2026-05-04 22:50:15 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/19253-mazinger-z
+2026-05-04 22:50:15 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:50:22 [shows] INFO: Show: Miracle Workers, seasons=4, episodes=10, found 0 IMDB links
+2026-05-04 22:50:22 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/78950-miracle-workers
+2026-05-04 22:50:22 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:50:25 [shows] INFO: Show: Close Enough, seasons=3, episodes=8, found 0 IMDB links
+2026-05-04 22:50:25 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/84503-close-enough
+2026-05-04 22:50:25 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:50:29 [shows] INFO: Show: Prison School, seasons=1, episodes=12, found 0 IMDB links
+2026-05-04 22:50:29 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/64706-prison-school
+2026-05-04 22:50:29 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:50:32 [shows] INFO: Show: Forever, seasons=None, episodes=22, found 0 IMDB links
+2026-05-04 22:50:32 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/60726-forever
+2026-05-04 22:50:32 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:50:36 [shows] INFO: Show: Creature Commandos, seasons=2, episodes=7, found 0 IMDB links
+2026-05-04 22:50:36 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/219543-creature-commandos
+2026-05-04 22:50:36 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:50:39 [shows] INFO: Show: Dexter: Original Sin, seasons=1, episodes=10, found 0 IMDB links
+2026-05-04 22:50:39 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/219937-dexter-original-sin
+2026-05-04 22:50:39 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:50:44 [shows] INFO: Show: Interspecies Reviewers, seasons=1, episodes=12, found 0 IMDB links
+2026-05-04 22:50:44 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/96444-interspecies-reviewers
+2026-05-04 22:50:44 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:50:51 [shows] INFO: Show: Scream Queens, seasons=2, episodes=13, found 0 IMDB links
+2026-05-04 22:50:51 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/62046-scream-queens
+2026-05-04 22:50:51 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:50:51 [scrapy.extensions.logstats] INFO: Crawled 1113 pages (at 11 pages/min), scraped 1078 items (at 11 items/min)
+2026-05-04 22:50:58 [shows] INFO: Show: Prehistoric Planet, seasons=3, episodes=5, found 0 IMDB links
+2026-05-04 22:50:58 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/95171-prehistoric-planet
+2026-05-04 22:50:58 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:51:02 [shows] INFO: Show: Eastbound & Down, seasons=4, episodes=8, found 0 IMDB links
+2026-05-04 22:51:02 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/8624-eastbound-down
+2026-05-04 22:51:02 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:51:08 [shows] INFO: Show: The Terror, seasons=3, episodes=10, found 0 IMDB links
+2026-05-04 22:51:08 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/75191-the-terror
+2026-05-04 22:51:08 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:51:12 [shows] INFO: Show: Dune: Prophecy, seasons=2, episodes=8, found 0 IMDB links
+2026-05-04 22:51:12 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/90228-dune-prophecy
+2026-05-04 22:51:12 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:51:18 [shows] INFO: Show: Manhunt, seasons=2, episodes=10, found 0 IMDB links
+2026-05-04 22:51:18 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/72597-manhunt
+2026-05-04 22:51:18 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:51:23 [shows] INFO: Show: The God of High School, seasons=1, episodes=13, found 0 IMDB links
+2026-05-04 22:51:23 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/99778-the-god-of-high-school
+2026-05-04 22:51:23 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:51:28 [shows] INFO: Show: Fate/stay night [Unlimited Blade Works], seasons=2, episodes=14, found 0 IMDB links
+2026-05-04 22:51:28 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/61415-fatestay-night-unlimited-blade-works
+2026-05-04 22:51:28 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:51:33 [shows] INFO: Show: Marry My Husband, seasons=None, episodes=16, found 0 IMDB links
+2026-05-04 22:51:33 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/221851-marry-my-husband
+2026-05-04 22:51:33 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:51:38 [shows] INFO: Show: SHAMAN KING, seasons=None, episodes=53, found 0 IMDB links
+2026-05-04 22:51:38 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/104699-shaman-king
+2026-05-04 22:51:38 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:51:44 [shows] INFO: Show: Scott Pilgrim Takes Off, seasons=1, episodes=8, found 0 IMDB links
+2026-05-04 22:51:44 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/155292-scott-pilgrim-takes-off
+2026-05-04 22:51:44 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:51:49 [shows] INFO: Show: Freaks and Geeks, seasons=None, episodes=18, found 0 IMDB links
+2026-05-04 22:51:49 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/2382-freaks-and-geeks
+2026-05-04 22:51:49 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:51:49 [scrapy.extensions.logstats] INFO: Crawled 1124 pages (at 11 pages/min), scraped 1089 items (at 11 items/min)
+2026-05-04 22:51:54 [shows] INFO: Show: Beyond the Boundary, seasons=2, episodes=13, found 0 IMDB links
+2026-05-04 22:51:54 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/61695-beyond-the-boundary
+2026-05-04 22:51:54 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:52:00 [shows] INFO: Show: The Crowded Room, seasons=1, episodes=10, found 0 IMDB links
+2026-05-04 22:52:00 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/123192-the-crowded-room
+2026-05-04 22:52:00 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:52:04 [shows] INFO: Show: Humans, seasons=3, episodes=8, found 0 IMDB links
+2026-05-04 22:52:04 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/62822-humans
+2026-05-04 22:52:04 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:52:09 [shows] INFO: Show: Atlanta, seasons=4, episodes=11, found 0 IMDB links
+2026-05-04 22:52:09 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/65495-atlanta
+2026-05-04 22:52:09 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:52:14 [shows] INFO: Show: My Name, seasons=1, episodes=8, found 0 IMDB links
+2026-05-04 22:52:14 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/110356-my-name
+2026-05-04 22:52:14 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:52:18 [shows] INFO: Show: Golden Time, seasons=None, episodes=24, found 0 IMDB links
+2026-05-04 22:52:18 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/67389-golden-time
+2026-05-04 22:52:18 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:52:23 [shows] INFO: Show: Lizzie McGuire, seasons=2, episodes=34, found 0 IMDB links
+2026-05-04 22:52:23 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/4575-lizzie-mcguire
+2026-05-04 22:52:23 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:52:25 [shows] INFO: Show: Beauty and the Beast, seasons=4, episodes=22, found 0 IMDB links
+2026-05-04 22:52:25 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/44606-beauty-and-the-beast
+2026-05-04 22:52:25 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:52:30 [shows] INFO: Show: The Grand Tour, seasons=7, episodes=14, found 0 IMDB links
+2026-05-04 22:52:30 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/67557-the-grand-tour
+2026-05-04 22:52:30 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:52:32 [shows] INFO: Show: Uzaki-chan Wants to Hang Out!, seasons=2, episodes=13, found 0 IMDB links
+2026-05-04 22:52:32 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/98986-uzaki-chan-wants-to-hang-out
+2026-05-04 22:52:32 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:52:35 [shows] INFO: Show: The Promised Neverland, seasons=2, episodes=12, found 0 IMDB links
+2026-05-04 22:52:35 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/83097-the-promised-neverland
+2026-05-04 22:52:35 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:52:42 [shows] INFO: Show: FlashForward, seasons=None, episodes=22, found 0 IMDB links
+2026-05-04 22:52:42 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/19092-flashforward
+2026-05-04 22:52:42 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:52:45 [shows] INFO: Show: Extant, seasons=2, episodes=13, found 0 IMDB links
+2026-05-04 22:52:45 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/58111-extant
+2026-05-04 22:52:45 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:52:49 [shows] INFO: Show: The Cuphead Show!, seasons=3, episodes=13, found 0 IMDB links
+2026-05-04 22:52:49 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/103786-the-cuphead-show
+2026-05-04 22:52:49 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:52:51 [shows] INFO: Show: Cosmos, seasons=1, episodes=13, found 0 IMDB links
+2026-05-04 22:52:51 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/58474-cosmos
+2026-05-04 22:52:51 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:52:51 [scrapy.extensions.logstats] INFO: Crawled 1139 pages (at 15 pages/min), scraped 1103 items (at 14 items/min)
+2026-05-04 22:52:54 [shows] INFO: Show: The Rising of the Shield Hero, seasons=4, episodes=25, found 0 IMDB links
+2026-05-04 22:52:54 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/83095-the-rising-of-the-shield-hero
+2026-05-04 22:52:54 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:52:58 [shows] INFO: Show: The Borgias, seasons=3, episodes=10, found 0 IMDB links
+2026-05-04 22:52:58 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/33025-the-borgias
+2026-05-04 22:52:58 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:53:01 [shows] INFO: Show: Toradora!, seasons=None, episodes=25, found 0 IMDB links
+2026-05-04 22:53:01 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/42916-toradora
+2026-05-04 22:53:01 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:53:04 [shows] INFO: Show: Echo, seasons=1, episodes=5, found 0 IMDB links
+2026-05-04 22:53:04 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/122226-echo
+2026-05-04 22:53:04 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:53:07 [shows] INFO: Show: DOTA: Dragon's Blood, seasons=3, episodes=8, found 0 IMDB links
+2026-05-04 22:53:07 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/118956-dota-dragons-blood
+2026-05-04 22:53:07 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:53:11 [shows] INFO: Show: Queen of the South, seasons=5, episodes=13, found 0 IMDB links
+2026-05-04 22:53:11 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/66676-queen-of-the-south
+2026-05-04 22:53:11 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:53:14 [shows] INFO: Show: ¡Mucha Lucha!, seasons=3, episodes=22, found 0 IMDB links
+2026-05-04 22:53:14 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/288-mucha-lucha
+2026-05-04 22:53:14 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:53:18 [shows] INFO: Show: Creepshow, seasons=4, episodes=8, found 0 IMDB links
+2026-05-04 22:53:18 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/86686-creepshow
+2026-05-04 22:53:18 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:53:22 [shows] INFO: Show: X-Men '97, seasons=3, episodes=10, found 0 IMDB links
+2026-05-04 22:53:22 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/138502-x-men-97
+2026-05-04 22:53:22 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:53:28 [shows] INFO: Show: TONIKAWA: Over the Moon for You, seasons=2, episodes=16, found 0 IMDB links
+2026-05-04 22:53:28 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/100049-tonikawa-over-the-moon-for-you
+2026-05-04 22:53:28 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:53:32 [shows] INFO: Show: The Pacific, seasons=1, episodes=10, found 0 IMDB links
+2026-05-04 22:53:32 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/16997-the-pacific
+2026-05-04 22:53:32 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:53:35 [shows] INFO: Show: Rosario Tijeras (Mexico), seasons=4, episodes=70, found 0 IMDB links
+2026-05-04 22:53:35 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/74428-rosario-tijeras-mexico
+2026-05-04 22:53:35 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:53:38 [shows] INFO: Show: The Gentlemen, seasons=2, episodes=8, found 0 IMDB links
+2026-05-04 22:53:38 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/236235-the-gentlemen
+2026-05-04 22:53:38 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:53:42 [shows] INFO: Show: Penny Dreadful, seasons=3, episodes=10, found 0 IMDB links
+2026-05-04 22:53:42 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/54671-penny-dreadful
+2026-05-04 22:53:42 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:53:44 [shows] INFO: Show: Drawn Together, seasons=3, episodes=15, found 0 IMDB links
+2026-05-04 22:53:44 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/4336-drawn-together
+2026-05-04 22:53:44 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:53:47 [shows] INFO: Show: Charmed, seasons=4, episodes=22, found 0 IMDB links
+2026-05-04 22:53:47 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/79611-charmed
+2026-05-04 22:53:47 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:53:51 [shows] INFO: Show: La tormenta, seasons=None, episodes=216, found 0 IMDB links
+2026-05-04 22:53:51 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/35527-la-tormenta
+2026-05-04 22:53:51 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:53:51 [scrapy.extensions.logstats] INFO: Crawled 1156 pages (at 17 pages/min), scraped 1121 items (at 18 items/min)
+2026-05-04 22:53:54 [shows] INFO: Show: Brazil Avenue, seasons=None, episodes=179, found 0 IMDB links
+2026-05-04 22:53:54 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/45815-brazil-avenue
+2026-05-04 22:53:54 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:53:58 [shows] INFO: Show: Agatha All Along, seasons=1, episodes=9, found 0 IMDB links
+2026-05-04 22:53:58 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/138501-agatha-all-along
+2026-05-04 22:53:58 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:54:02 [shows] INFO: Show: El Chapulín Colorado, seasons=7, episodes=42, found 0 IMDB links
+2026-05-04 22:54:02 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/13023-el-chapuln-colorado
+2026-05-04 22:54:02 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:54:05 [shows] INFO: Show: Pride and Prejudice, seasons=1, episodes=6, found 0 IMDB links
+2026-05-04 22:54:05 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/1457-pride-and-prejudice
+2026-05-04 22:54:05 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:54:07 [shows] INFO: Show: Fairy Tail, seasons=8, episodes=54, found 0 IMDB links
+2026-05-04 22:54:07 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/46261-fairy-tail
+2026-05-04 22:54:07 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:54:13 [shows] INFO: Show: Twin Star Exorcists, seasons=None, episodes=50, found 0 IMDB links
+2026-05-04 22:54:13 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/66078-twin-star-exorcists
+2026-05-04 22:54:13 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:54:16 [shows] INFO: Show: Marvel's Agent Carter, seasons=2, episodes=10, found 0 IMDB links
+2026-05-04 22:54:16 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/61550-marvels-agent-carter
+2026-05-04 22:54:16 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:54:19 [shows] INFO: Show: Kuroko's Basketball, seasons=3, episodes=26, found 0 IMDB links
+2026-05-04 22:54:19 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/45783-kurokos-basketball
+2026-05-04 22:54:19 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:54:23 [shows] INFO: Show: Your Honor, seasons=2, episodes=10, found 0 IMDB links
+2026-05-04 22:54:23 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/86430-your-honor
+2026-05-04 22:54:23 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:54:25 [shows] INFO: Show: Dollhouse, seasons=2, episodes=13, found 0 IMDB links
+2026-05-04 22:54:25 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/14956-dollhouse
+2026-05-04 22:54:25 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:54:27 [shows] INFO: Show: The Penguin, seasons=1, episodes=8, found 0 IMDB links
+2026-05-04 22:54:27 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/194764-the-penguin
+2026-05-04 22:54:27 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:54:31 [shows] INFO: Show: Ed, Edd n Eddy, seasons=6, episodes=23, found 0 IMDB links
+2026-05-04 22:54:31 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/606-ed-edd-n-eddy
+2026-05-04 22:54:31 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:54:34 [shows] INFO: Show: Record of Ragnarok, seasons=3, episodes=15, found 0 IMDB links
+2026-05-04 22:54:34 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/114868-record-of-ragnarok
+2026-05-04 22:54:34 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:54:38 [shows] INFO: Show: Extraordinary Attorney Woo, seasons=None, episodes=16, found 0 IMDB links
+2026-05-04 22:54:38 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/197067-extraordinary-attorney-woo
+2026-05-04 22:54:38 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:54:41 [shows] INFO: Show: Sweet Tooth, seasons=3, episodes=8, found 0 IMDB links
+2026-05-04 22:54:41 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/103768-sweet-tooth
+2026-05-04 22:54:41 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:54:44 [shows] INFO: Show: Velma, seasons=2, episodes=11, found 0 IMDB links
+2026-05-04 22:54:44 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/126725-velma
+2026-05-04 22:54:44 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:54:48 [shows] INFO: Show: Violet Evergarden, seasons=1, episodes=13, found 0 IMDB links
+2026-05-04 22:54:48 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/75214-violet-evergarden
+2026-05-04 22:54:48 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:54:48 [scrapy.extensions.logstats] INFO: Crawled 1173 pages (at 17 pages/min), scraped 1138 items (at 17 items/min)
+2026-05-04 22:54:51 [shows] INFO: Show: And Just Like That…, seasons=3, episodes=12, found 0 IMDB links
+2026-05-04 22:54:51 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/116450-and-just-like-that
+2026-05-04 22:54:51 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:54:54 [shows] INFO: Show: Adolescence, seasons=1, episodes=4, found 0 IMDB links
+2026-05-04 22:54:54 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/249042-adolescence
+2026-05-04 22:54:54 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:54:58 [shows] INFO: Show: The Avengers: Earth's Mightiest Heroes, seasons=2, episodes=26, found 0 IMDB links
+2026-05-04 22:54:58 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/33623-the-avengers-earths-mightiest-heroes
+2026-05-04 22:54:58 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:55:02 [shows] INFO: Show: Jurassic World Camp Cretaceous, seasons=5, episodes=12, found 0 IMDB links
+2026-05-04 22:55:02 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/93741-jurassic-world-camp-cretaceous
+2026-05-04 22:55:02 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:55:06 [shows] INFO: Show: Dark Matter, seasons=3, episodes=13, found 0 IMDB links
+2026-05-04 22:55:06 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/62425-dark-matter
+2026-05-04 22:55:06 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:55:10 [shows] INFO: Show: Mayfair Witches, seasons=3, episodes=8, found 0 IMDB links
+2026-05-04 22:55:10 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/207863-mayfair-witches
+2026-05-04 22:55:10 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:55:14 [shows] INFO: Show: Masters of the Air, seasons=1, episodes=9, found 0 IMDB links
+2026-05-04 22:55:14 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/46518-masters-of-the-air
+2026-05-04 22:55:14 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:55:18 [shows] INFO: Show: Slasher, seasons=5, episodes=8, found 0 IMDB links
+2026-05-04 22:55:18 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/65784-slasher
+2026-05-04 22:55:18 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:55:21 [shows] INFO: Show: CatDog, seasons=3, episodes=33, found 0 IMDB links
+2026-05-04 22:55:21 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/1567-catdog
+2026-05-04 22:55:21 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:55:24 [shows] INFO: Show: Pennyworth: The Origin of Batman's Butler, seasons=3, episodes=10, found 0 IMDB links
+2026-05-04 22:55:24 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/79588-pennyworth-the-origin-of-batmans-butler
+2026-05-04 22:55:24 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:55:28 [shows] INFO: Show: The Alienist, seasons=2, episodes=10, found 0 IMDB links
+2026-05-04 22:55:28 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/71769-the-alienist
+2026-05-04 22:55:28 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:55:33 [shows] INFO: Show: iCarly, seasons=3, episodes=13, found 0 IMDB links
+2026-05-04 22:55:33 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/119243-icarly
+2026-05-04 22:55:33 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:55:36 [shows] INFO: Show: The Outsider, seasons=1, episodes=10, found 0 IMDB links
+2026-05-04 22:55:36 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/84661-the-outsider
+2026-05-04 22:55:36 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:55:39 [shows] INFO: Show: Dragon Ball DAIMA, seasons=None, episodes=20, found 0 IMDB links
+2026-05-04 22:55:39 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/236994-dragon-ball-daima
+2026-05-04 22:55:39 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:55:43 [shows] INFO: Show: Ghost in the Shell: Stand Alone Complex, seasons=2, episodes=26, found 0 IMDB links
+2026-05-04 22:55:43 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/1095-ghost-in-the-shell-stand-alone-complex
+2026-05-04 22:55:43 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:55:46 [shows] INFO: Show: The Twilight Zone, seasons=2, episodes=10, found 0 IMDB links
+2026-05-04 22:55:46 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/83135-the-twilight-zone
+2026-05-04 22:55:46 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:55:49 [shows] INFO: Show: HIS & HERS, seasons=1, episodes=6, found 0 IMDB links
+2026-05-04 22:55:49 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/259731-his-hers
+2026-05-04 22:55:49 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:55:49 [scrapy.extensions.logstats] INFO: Crawled 1190 pages (at 17 pages/min), scraped 1155 items (at 17 items/min)
+2026-05-04 22:55:52 [shows] INFO: Show: The Haunting of Hill House, seasons=1, episodes=10, found 0 IMDB links
+2026-05-04 22:55:52 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/72844-the-haunting-of-hill-house
+2026-05-04 22:55:52 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:55:55 [shows] INFO: Show: Peep Show, seasons=9, episodes=6, found 0 IMDB links
+2026-05-04 22:55:55 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/815-peep-show
+2026-05-04 22:55:55 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:55:58 [shows] INFO: Show: Mouse, seasons=None, episodes=22, found 0 IMDB links
+2026-05-04 22:55:58 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/117378-mouse
+2026-05-04 22:55:58 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:56:02 [shows] INFO: Show: Citadel, seasons=2, episodes=7, found 0 IMDB links
+2026-05-04 22:56:02 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/114922-citadel
+2026-05-04 22:56:02 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:56:04 [shows] INFO: Show: Pasión de Gavilanes, seasons=2, episodes=188, found 0 IMDB links
+2026-05-04 22:56:04 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/11250-pasin-de-gavilanes
+2026-05-04 22:56:04 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:56:08 [shows] INFO: Show: Taboo, seasons=1, episodes=8, found 0 IMDB links
+2026-05-04 22:56:08 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/65708-taboo
+2026-05-04 22:56:08 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:56:10 [shows] INFO: Show: Defiance, seasons=3, episodes=13, found 0 IMDB links
+2026-05-04 22:56:10 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/51704-defiance
+2026-05-04 22:56:10 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:56:14 [shows] INFO: Show: Lessons in Chemistry, seasons=1, episodes=8, found 0 IMDB links
+2026-05-04 22:56:14 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/117303-lessons-in-chemistry
+2026-05-04 22:56:14 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:56:17 [shows] INFO: Show: She-Ra and the Princesses of Power, seasons=5, episodes=13, found 0 IMDB links
+2026-05-04 22:56:17 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/79732-she-ra-and-the-princesses-of-power
+2026-05-04 22:56:17 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:56:19 [shows] INFO: Show: Mr. Bean: The Animated Series, seasons=6, episodes=52, found 0 IMDB links
+2026-05-04 22:56:19 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/2530-mr-bean-the-animated-series
+2026-05-04 22:56:19 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:56:23 [shows] INFO: Show: Darkwing Duck, seasons=2, episodes=78, found 0 IMDB links
+2026-05-04 22:56:23 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/3319-darkwing-duck
+2026-05-04 22:56:23 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:56:26 [shows] INFO: Show: TSUKIMICHI -Moonlit Fantasy-, seasons=2, episodes=25, found 0 IMDB links
+2026-05-04 22:56:26 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/111819-tsukimichi-moonlit-fantasy
+2026-05-04 22:56:26 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:56:29 [shows] INFO: Show: Scooby-Doo and Scrappy-Doo, seasons=5, episodes=16, found 0 IMDB links
+2026-05-04 22:56:29 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/6005-scooby-doo-and-scrappy-doo
+2026-05-04 22:56:29 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:56:31 [shows] INFO: Show: Transformers: Prime, seasons=3, episodes=26, found 0 IMDB links
+2026-05-04 22:56:31 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/32910-transformers-prime
+2026-05-04 22:56:31 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:56:34 [shows] INFO: Show: Dickinson, seasons=3, episodes=10, found 0 IMDB links
+2026-05-04 22:56:34 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/89901-dickinson
+2026-05-04 22:56:34 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:56:36 [shows] INFO: Show: Preacher, seasons=4, episodes=13, found 0 IMDB links
+2026-05-04 22:56:36 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/64230-preacher
+2026-05-04 22:56:36 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:56:40 [shows] INFO: Show: Jericho, seasons=2, episodes=22, found 0 IMDB links
+2026-05-04 22:56:40 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/365-jericho
+2026-05-04 22:56:40 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:56:44 [shows] INFO: Show: Top Cat, seasons=None, episodes=30, found 0 IMDB links
+2026-05-04 22:56:44 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/4232-top-cat
+2026-05-04 22:56:44 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:56:47 [shows] INFO: Show: Broadchurch, seasons=3, episodes=8, found 0 IMDB links
+2026-05-04 22:56:47 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/1427-broadchurch
+2026-05-04 22:56:47 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:56:47 [scrapy.extensions.logstats] INFO: Crawled 1209 pages (at 19 pages/min), scraped 1174 items (at 19 items/min)
+2026-05-04 22:56:51 [shows] INFO: Show: Luther, seasons=5, episodes=6, found 0 IMDB links
+2026-05-04 22:56:51 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/1426-luther
+2026-05-04 22:56:51 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:56:53 [shows] INFO: Show: The IT Crowd, seasons=4, episodes=6, found 0 IMDB links
+2026-05-04 22:56:53 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/2490-the-it-crowd
+2026-05-04 22:56:53 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:56:57 [shows] INFO: Show: Formula 1: Drive to Survive, seasons=9, episodes=10, found 0 IMDB links
+2026-05-04 22:56:57 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/87083-formula-1-drive-to-survive
+2026-05-04 22:56:57 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:57:01 [shows] INFO: Show: Dead to Me, seasons=3, episodes=10, found 0 IMDB links
+2026-05-04 22:57:01 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/81357-dead-to-me
+2026-05-04 22:57:01 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:57:04 [shows] INFO: Show: Stargate Universe, seasons=2, episodes=20, found 0 IMDB links
+2026-05-04 22:57:04 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/5148-stargate-universe
+2026-05-04 22:57:04 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:57:07 [shows] INFO: Show: BAKI, seasons=2, episodes=26, found 0 IMDB links
+2026-05-04 22:57:07 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/80623-baki
+2026-05-04 22:57:07 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:57:10 [shows] INFO: Show: Heartstopper, seasons=3, episodes=8, found 0 IMDB links
+2026-05-04 22:57:10 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/124834-heartstopper
+2026-05-04 22:57:10 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:57:14 [shows] INFO: Show: Siren, seasons=3, episodes=16, found 0 IMDB links
+2026-05-04 22:57:14 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/71886-siren
+2026-05-04 22:57:14 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:57:18 [shows] INFO: Show: Big Time Rush, seasons=4, episodes=27, found 0 IMDB links
+2026-05-04 22:57:18 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/31356-big-time-rush
+2026-05-04 22:57:18 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:57:20 [shows] INFO: Show: ThunderCats, seasons=4, episodes=65, found 0 IMDB links
+2026-05-04 22:57:20 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/1988-thundercats
+2026-05-04 22:57:20 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:57:23 [shows] INFO: Show: The Deuce, seasons=3, episodes=9, found 0 IMDB links
+2026-05-04 22:57:23 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/65817-the-deuce
+2026-05-04 22:57:23 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:57:26 [shows] INFO: Show: V, seasons=2, episodes=13, found 0 IMDB links
+2026-05-04 22:57:26 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/21494-v
+2026-05-04 22:57:26 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:57:30 [shows] INFO: Show: The Addams Family, seasons=2, episodes=34, found 0 IMDB links
+2026-05-04 22:57:30 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/14009-the-addams-family
+2026-05-04 22:57:30 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:57:34 [shows] INFO: Show: Hemlock Grove, seasons=3, episodes=13, found 0 IMDB links
+2026-05-04 22:57:34 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/42295-hemlock-grove
+2026-05-04 22:57:34 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:57:37 [shows] INFO: Show: Legion, seasons=3, episodes=11, found 0 IMDB links
+2026-05-04 22:57:37 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/67195-legion
+2026-05-04 22:57:37 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:57:40 [shows] INFO: Show: The Terminal List, seasons=2, episodes=8, found 0 IMDB links
+2026-05-04 22:57:40 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/120911-the-terminal-list
+2026-05-04 22:57:40 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:57:43 [shows] INFO: Show: Medici: Masters of Florence, seasons=3, episodes=8, found 0 IMDB links
+2026-05-04 22:57:43 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/66761-medici-masters-of-florence
+2026-05-04 22:57:43 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:57:46 [shows] INFO: Show: Obi-Wan Kenobi, seasons=1, episodes=6, found 0 IMDB links
+2026-05-04 22:57:46 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/92830-obi-wan-kenobi
+2026-05-04 22:57:46 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:57:50 [shows] INFO: Show: The Boys Presents: Diabolical, seasons=1, episodes=8, found 0 IMDB links
+2026-05-04 22:57:50 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/152483-the-boys-presents-diabolical
+2026-05-04 22:57:50 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:57:50 [scrapy.extensions.logstats] INFO: Crawled 1228 pages (at 19 pages/min), scraped 1193 items (at 19 items/min)
+2026-05-04 22:57:53 [shows] INFO: Show: Twisted Metal, seasons=3, episodes=12, found 0 IMDB links
+2026-05-04 22:57:53 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/133748-twisted-metal
+2026-05-04 22:57:53 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:57:57 [shows] INFO: Show: Misfits, seasons=5, episodes=8, found 0 IMDB links
+2026-05-04 22:57:57 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/31295-misfits
+2026-05-04 22:57:57 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:57:59 [shows] INFO: Show: Danny Phantom, seasons=3, episodes=20, found 0 IMDB links
+2026-05-04 22:57:59 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/2309-danny-phantom
+2026-05-04 22:57:59 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:58:04 [shows] INFO: Show: The Book of Boba Fett, seasons=1, episodes=7, found 0 IMDB links
+2026-05-04 22:58:04 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/115036-the-book-of-boba-fett
+2026-05-04 22:58:04 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:58:07 [shows] INFO: Show: Banana Fish, seasons=None, episodes=24, found 0 IMDB links
+2026-05-04 22:58:07 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/80564-banana-fish
+2026-05-04 22:58:07 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:58:10 [shows] INFO: Show: A Teacher, seasons=1, episodes=10, found 0 IMDB links
+2026-05-04 22:58:10 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/103992-a-teacher
+2026-05-04 22:58:10 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:58:14 [shows] INFO: Show: Mythic Quest, seasons=4, episodes=11, found 0 IMDB links
+2026-05-04 22:58:14 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/94951-mythic-quest
+2026-05-04 22:58:14 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:58:17 [shows] INFO: Show: The Kardashians, seasons=7, episodes=11, found 0 IMDB links
+2026-05-04 22:58:17 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/154521-the-kardashians
+2026-05-04 22:58:17 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:58:20 [shows] INFO: Show: Dororo, seasons=None, episodes=24, found 0 IMDB links
+2026-05-04 22:58:20 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/83100-dororo
+2026-05-04 22:58:20 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:58:24 [shows] INFO: Show: Mucize Doktor, seasons=2, episodes=36, found 0 IMDB links
+2026-05-04 22:58:24 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/92967-mucize-doktor
+2026-05-04 22:58:24 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:58:27 [shows] INFO: Show: Wayward Pines, seasons=2, episodes=10, found 0 IMDB links
+2026-05-04 22:58:27 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/53425-wayward-pines
+2026-05-04 22:58:27 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:58:30 [shows] INFO: Show: Gangs of London, seasons=4, episodes=9, found 0 IMDB links
+2026-05-04 22:58:30 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/85021-gangs-of-london
+2026-05-04 22:58:30 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:58:34 [shows] INFO: Show: La fea más bella, seasons=None, episodes=300, found 0 IMDB links
+2026-05-04 22:58:34 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/11721-la-fea-ms-bella
+2026-05-04 22:58:34 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:58:37 [shows] INFO: Show: Dragon Ball Super, seasons=None, episodes=131, found 0 IMDB links
+2026-05-04 22:58:37 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/62715-dragon-ball-super
+2026-05-04 22:58:37 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:58:40 [shows] INFO: Show: Secret Level, seasons=2, episodes=15, found 0 IMDB links
+2026-05-04 22:58:40 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/261579-secret-level
+2026-05-04 22:58:40 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:58:44 [shows] INFO: Show: CSI: Vegas, seasons=3, episodes=21, found 0 IMDB links
+2026-05-04 22:58:44 [TvshowCrawlerPipeline] INFO: Processing item: https://seriesgraph.com/show/122194-csi-vegas
+2026-05-04 22:58:44 [TvshowCrawlerPipeline] INFO: Item processed successfully
+2026-05-04 22:58:44 [scrapy.crawler] INFO: Received SIGINT, shutting down gracefully. Send again to force 
+2026-05-04 22:58:44 [scrapy.core.engine] INFO: Closing spider (shutdown)
