@@ -1,0 +1,2418 @@
+[
+  {
+    "link": "https://seriesgraph.com/show/64464-112263",
+    "showname": "11.22.63",
+    "seasons": 1,
+    "episodes": 8,
+    "rating": 8.0,
+    "poster": "https://image.tmdb.org/t/p/w400/1fH41ccMKvgDTbbcCxWWH6fznah.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/103992-a-teacher",
+    "showname": "A Teacher",
+    "seasons": 1,
+    "episodes": 10,
+    "rating": 6.8,
+    "poster": "https://image.tmdb.org/t/p/w400/rH2eEuThzRQh87Uxz6SY3BuVNBD.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/2429-aaahh-real-monsters",
+    "showname": "Aaahh!!! Real Monsters",
+    "seasons": 4,
+    "episodes": 13,
+    "rating": 7.2,
+    "poster": "https://image.tmdb.org/t/p/w400/fnh1Mi108eNKayutKLSqesFgaRv.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/133727-acapulco",
+    "showname": "Acapulco",
+    "seasons": 4,
+    "episodes": 10,
+    "rating": 7.8,
+    "poster": "https://image.tmdb.org/t/p/w400/gzBkO4zFr75A13GKnjvTeg25pze.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/249042-adolescence",
+    "showname": "Adolescence",
+    "seasons": 1,
+    "episodes": 4,
+    "rating": 8.1,
+    "poster": "https://image.tmdb.org/t/p/w400/20i4nShZZg1g1VFHSB8xpaYM4r7.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/138501-agatha-all-along",
+    "showname": "Agatha All Along",
+    "seasons": 1,
+    "episodes": 9,
+    "rating": 7.2,
+    "poster": "https://image.tmdb.org/t/p/w400/mGsxKwXUjojitRv2E9qMTbxbBRd.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/114461-ahsoka",
+    "showname": "Ahsoka",
+    "seasons": 2,
+    "episodes": 8,
+    "rating": 7.4,
+    "poster": "https://image.tmdb.org/t/p/w400/eiJeWeCAEZAmRppnXHiTWDcCd3Q.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/70637-akashic-records-of-bastard-magic-instructor",
+    "showname": "Akashic Records of Bastard Magic Instructor",
+    "seasons": 1,
+    "episodes": 12,
+    "rating": 7.0,
+    "poster": "https://image.tmdb.org/t/p/w400/hTsIeYiZF1DJN1alsgVgk8iA5ci.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/99799-alex-rider",
+    "showname": "Alex Rider",
+    "seasons": 3,
+    "episodes": 8,
+    "rating": 7.5,
+    "poster": "https://image.tmdb.org/t/p/w400/7VkzkvA0XckUClWrlkt4fnmTrkL.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/39362-alphas",
+    "showname": "Alphas",
+    "seasons": 2,
+    "episodes": 13,
+    "rating": 7.2,
+    "poster": "https://image.tmdb.org/t/p/w400/1k2AG40UCvBGZTg6Kicsz1c9QSu.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/116450-and-just-like-that",
+    "showname": "And Just Like That…",
+    "seasons": 3,
+    "episodes": 12,
+    "rating": 5.6,
+    "poster": "https://image.tmdb.org/t/p/w400/2b6E0pN19IGsmxSv6HyTKydKKdb.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/42942-angel-beats",
+    "showname": "Angel Beats!",
+    "seasons": 1,
+    "episodes": 15,
+    "rating": 7.6,
+    "poster": "https://image.tmdb.org/t/p/w400/wz1PuXrg5ERQvyXKex3cGDie2hj.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/39434-anohana-the-flower-we-saw-that-day",
+    "showname": "AnoHana: The Flower We Saw That Day",
+    "seasons": 1,
+    "episodes": 11,
+    "rating": 8.1,
+    "poster": "https://image.tmdb.org/t/p/w400/2tgOAvOttp7rak3r2U5vIAaeyDt.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/65495-atlanta",
+    "showname": "Atlanta",
+    "seasons": 4,
+    "episodes": 11,
+    "rating": 8.6,
+    "poster": "https://image.tmdb.org/t/p/w400/8HZyGMnPLVVb00rmrh6A2SbK9NX.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/670-baby-looney-tunes",
+    "showname": "Baby Looney Tunes",
+    "seasons": 2,
+    "episodes": 40,
+    "rating": 6.2,
+    "poster": "https://image.tmdb.org/t/p/w400/l7SLxIuRdyrpIVWSEDBdtxCOSCI.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/80623-baki",
+    "showname": "BAKI",
+    "seasons": 2,
+    "episodes": 26,
+    "rating": 6.8,
+    "poster": "https://image.tmdb.org/t/p/w400/j4bL0G8h8k49MuXKYfZqhXqk2rI.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/80564-banana-fish",
+    "showname": "Banana Fish",
+    "seasons": null,
+    "episodes": 24,
+    "rating": 8.1,
+    "poster": "https://image.tmdb.org/t/p/w400/d2TW5Rtd0uCasHlQygsDfWCROl2.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/44606-beauty-and-the-beast",
+    "showname": "Beauty and the Beast",
+    "seasons": 4,
+    "episodes": 22,
+    "rating": 7.0,
+    "poster": "https://image.tmdb.org/t/p/w400/6rZ2I1xRemLORb65spepVmsvnf7.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/61695-beyond-the-boundary",
+    "showname": "Beyond the Boundary",
+    "seasons": 2,
+    "episodes": 13,
+    "rating": 7.2,
+    "poster": "https://image.tmdb.org/t/p/w400/6cmtMbEZAYm3aWzthFRk6048LFi.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/96716-big-shot",
+    "showname": "Big Shot",
+    "seasons": 2,
+    "episodes": 10,
+    "rating": 7.4,
+    "poster": "https://image.tmdb.org/t/p/w400/yBFqTVoQsFg53ein34BKbn7SU8Z.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/31356-big-time-rush",
+    "showname": "Big Time Rush",
+    "seasons": 4,
+    "episodes": 27,
+    "rating": 6.6,
+    "poster": "https://image.tmdb.org/t/p/w400/34y5JjZYj2paoxA0RXEppU5LRpb.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/61986-bloodline",
+    "showname": "Bloodline",
+    "seasons": 3,
+    "episodes": 13,
+    "rating": 7.8,
+    "poster": "https://image.tmdb.org/t/p/w400/uEaqgEjAShqrziUia4XBzvXXGXP.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/225180-blue-eye-samurai",
+    "showname": "BLUE EYE SAMURAI",
+    "seasons": 2,
+    "episodes": 8,
+    "rating": 8.7,
+    "poster": "https://image.tmdb.org/t/p/w400/fXm3JT4WLQVnwukdvghtAblc1wc.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/92592-bna",
+    "showname": "BNA",
+    "seasons": 1,
+    "episodes": 12,
+    "rating": 7.1,
+    "poster": "https://image.tmdb.org/t/p/w400/fwFYXaQz0mrY8v1HDky2wJsYa7t.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/80307-bodyguard",
+    "showname": "Bodyguard",
+    "seasons": 1,
+    "episodes": 6,
+    "rating": 8.0,
+    "poster": "https://image.tmdb.org/t/p/w400/5DUJTrHTRLHLCKWriPhdusQogAv.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/70881-boruto-naruto-next-generations",
+    "showname": "Boruto: Naruto Next Generations",
+    "seasons": null,
+    "episodes": 293,
+    "rating": 6.3,
+    "poster": "https://image.tmdb.org/t/p/w400/e0B6i48kxdRkMcK4tR4YNfXGWOc.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/16420-boys-over-flowers",
+    "showname": "Boys Over Flowers",
+    "seasons": null,
+    "episodes": 25,
+    "rating": 7.7,
+    "poster": "https://image.tmdb.org/t/p/w400/ty8uAV6ihcpw6yfYoMxTulXZRYA.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/45815-brazil-avenue",
+    "showname": "Brazil Avenue",
+    "seasons": null,
+    "episodes": 179,
+    "rating": 8.4,
+    "poster": "https://image.tmdb.org/t/p/w400/3wH4kZ0hdoizAcgqCgp3gUD1fFq.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/1427-broadchurch",
+    "showname": "Broadchurch",
+    "seasons": 3,
+    "episodes": 8,
+    "rating": 8.3,
+    "poster": "https://image.tmdb.org/t/p/w400/2NhBFUTg5KVBmGwafxtLwVdsqrr.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/9160-candy-candy",
+    "showname": "Candy Candy",
+    "seasons": null,
+    "episodes": 115,
+    "rating": 8.0,
+    "poster": "https://image.tmdb.org/t/p/w400/uO9V1FkqLTJdAodHn9Sdg3Nwy1.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/25707-captain-tsubasa",
+    "showname": "Captain Tsubasa",
+    "seasons": 6,
+    "episodes": 47,
+    "rating": 7.9,
+    "poster": "https://image.tmdb.org/t/p/w400/qHVVaYYlD509eh1V4LYE0M927uw.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/185-carnivle",
+    "showname": "Carnivàle",
+    "seasons": 2,
+    "episodes": 12,
+    "rating": 8.4,
+    "poster": "https://image.tmdb.org/t/p/w400/5pKvfZ3qLuKJd8PQfKcPxN9jTO9.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/71024-castlevania",
+    "showname": "Castlevania",
+    "seasons": 4,
+    "episodes": 10,
+    "rating": 8.3,
+    "poster": "https://image.tmdb.org/t/p/w400/WzFHnJY44uDERER0xi1jOdoafT.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/1567-catdog",
+    "showname": "CatDog",
+    "seasons": 3,
+    "episodes": 33,
+    "rating": 6.5,
+    "poster": "https://image.tmdb.org/t/p/w400/fkSCg9negcHAVO3gXohqEidqrsX.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/79611-charmed",
+    "showname": "Charmed",
+    "seasons": 4,
+    "episodes": 22,
+    "rating": 4.8,
+    "poster": "https://image.tmdb.org/t/p/w400/doXHjfOtEmX8kEq1tsMnNqq9YLZ.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/9907-chowder",
+    "showname": "Chowder",
+    "seasons": 3,
+    "episodes": 28,
+    "rating": 7.3,
+    "poster": "https://image.tmdb.org/t/p/w400/4H5diUE5bKp9dxcisJ3wbZzvAg7.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/114922-citadel",
+    "showname": "Citadel",
+    "seasons": 2,
+    "episodes": 7,
+    "rating": 6.2,
+    "poster": "https://image.tmdb.org/t/p/w400/rIuJpbBcZjROIqvu9OKr3psP0zv.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/34791-claymore",
+    "showname": "Claymore",
+    "seasons": null,
+    "episodes": 26,
+    "rating": 8.0,
+    "poster": "https://image.tmdb.org/t/p/w400/rQt8X4kjBxah0laGwUVJISf1086.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/84503-close-enough",
+    "showname": "Close Enough",
+    "seasons": 3,
+    "episodes": 8,
+    "rating": 7.8,
+    "poster": "https://image.tmdb.org/t/p/w400/8aNYMcMyhv1m0MKibgCVmJrAeLs.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/58474-cosmos",
+    "showname": "Cosmos",
+    "seasons": 1,
+    "episodes": 13,
+    "rating": 9.2,
+    "poster": "https://image.tmdb.org/t/p/w400/5o07ps0QZ0bNoRYxTn9cPdRWlUu.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/63646-counterpart",
+    "showname": "Counterpart",
+    "seasons": 2,
+    "episodes": 10,
+    "rating": 8.0,
+    "poster": "https://image.tmdb.org/t/p/w400/fVTpkoTkl7LJSoVCnuoHRPJvS4o.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/84469-cowboy-bebop",
+    "showname": "Cowboy Bebop",
+    "seasons": 1,
+    "episodes": 10,
+    "rating": 6.7,
+    "poster": "https://image.tmdb.org/t/p/w400/lSsCxZ1dnjcB4cmXSgMJt5qunOu.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/219543-creature-commandos",
+    "showname": "Creature Commandos",
+    "seasons": 2,
+    "episodes": 7,
+    "rating": 7.8,
+    "poster": "https://image.tmdb.org/t/p/w400/bB3G6Ug1jfsOUptb0RJsqrgMVta.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/86686-creepshow",
+    "showname": "Creepshow",
+    "seasons": 4,
+    "episodes": 8,
+    "rating": 7.0,
+    "poster": "https://image.tmdb.org/t/p/w400/fassm77VqtSDHv9x17eJ3DkGVml.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/122194-csi-vegas",
+    "showname": "CSI: Vegas",
+    "seasons": 3,
+    "episodes": 21,
+    "rating": 7.4,
+    "poster": "https://image.tmdb.org/t/p/w400/8DtOnaOQPiptM9umpV0Xntwv9t3.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/105248-cyberpunk-edgerunners",
+    "showname": "Cyberpunk: Edgerunners",
+    "seasons": 2,
+    "episodes": 10,
+    "rating": 8.3,
+    "poster": "https://image.tmdb.org/t/p/w400/lqcDVZ8pyk08AVftMBildDR3QUK.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/2309-danny-phantom",
+    "showname": "Danny Phantom",
+    "seasons": 3,
+    "episodes": 20,
+    "rating": 7.2,
+    "poster": "https://image.tmdb.org/t/p/w400/pBUOFBmZLaIxzjDjQP7d3QZrd4w.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/2131-daria",
+    "showname": "Daria",
+    "seasons": 5,
+    "episodes": 14,
+    "rating": 8.1,
+    "poster": "https://image.tmdb.org/t/p/w400/w1Z3VI1aunE4yy88USAhGGVdazo.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/62425-dark-matter",
+    "showname": "Dark Matter",
+    "seasons": 3,
+    "episodes": 13,
+    "rating": 7.5,
+    "poster": "https://image.tmdb.org/t/p/w400/oWYOFBvIMkW64n51uD4mdje6k2u.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/196322-dark-matter",
+    "showname": "Dark Matter",
+    "seasons": 2,
+    "episodes": 10,
+    "rating": 7.6,
+    "poster": "https://image.tmdb.org/t/p/w400/c6MRUtPk0nEPQ9FBD9RdRKt2rIm.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/3319-darkwing-duck",
+    "showname": "Darkwing Duck",
+    "seasons": 2,
+    "episodes": 78,
+    "rating": 7.6,
+    "poster": "https://image.tmdb.org/t/p/w400/1gJMSXS0gwM8gDJnzVSITcxbQc.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/2566-dead-like-me",
+    "showname": "Dead Like Me",
+    "seasons": 2,
+    "episodes": 15,
+    "rating": 8.1,
+    "poster": "https://image.tmdb.org/t/p/w400/92pJimSg6exk0Dt5u5XB1O5DZtz.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/81357-dead-to-me",
+    "showname": "Dead to Me",
+    "seasons": 3,
+    "episodes": 10,
+    "rating": 7.9,
+    "poster": "https://image.tmdb.org/t/p/w400/mAj18PHeACxqcrEus4pD8pksRmB.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/51704-defiance",
+    "showname": "Defiance",
+    "seasons": 3,
+    "episodes": 13,
+    "rating": 7.0,
+    "poster": "https://image.tmdb.org/t/p/w400/4Xo2D2MX8v4FoHi70Y9jEghJGUI.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/206164-dejmonos-de-vargas",
+    "showname": "Dejémonos de Vargas",
+    "seasons": null,
+    "episodes": 74,
+    "rating": 6.3,
+    "poster": "https://image.tmdb.org/t/p/w400/d0bthLld2QnL0qAoeSkfDa639pz.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/65143-descendants-of-the-sun",
+    "showname": "Descendants of the Sun",
+    "seasons": null,
+    "episodes": 19,
+    "rating": 8.2,
+    "poster": "https://image.tmdb.org/t/p/w400/s1zXuYyMMrgpet6BBrMqGlHnvc8.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/235930-devil-may-cry",
+    "showname": "Devil May Cry",
+    "seasons": 2,
+    "episodes": 8,
+    "rating": 7.4,
+    "poster": "https://image.tmdb.org/t/p/w400/mX9tqfpjqwreONJHhap7SnSSowe.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/75208-devilman-crybaby",
+    "showname": "Devilman Crybaby",
+    "seasons": 1,
+    "episodes": 10,
+    "rating": 7.6,
+    "poster": "https://image.tmdb.org/t/p/w400/2pQ9xfgDa3L3QpoXfkNhISby2R4.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/219937-dexter-original-sin",
+    "showname": "Dexter: Original Sin",
+    "seasons": 1,
+    "episodes": 10,
+    "rating": 8.2,
+    "poster": "https://image.tmdb.org/t/p/w400/j5bP7spdfS0NpDLKDlqJYyJPi1j.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/89901-dickinson",
+    "showname": "Dickinson",
+    "seasons": 3,
+    "episodes": 10,
+    "rating": 7.6,
+    "poster": "https://image.tmdb.org/t/p/w400/dDdcAfHBZ6Aalv53iR6o35CSLWA.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/302463-dinasta-casillas",
+    "showname": "Dinastía Casillas",
+    "seasons": null,
+    "episodes": 92,
+    "rating": 8.4,
+    "poster": "https://image.tmdb.org/t/p/w400/5xFzmTTC4ITaFkiwzohTK1UUNX3.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/12568-distilling-love",
+    "showname": "Distilling Love",
+    "seasons": null,
+    "episodes": 170,
+    "rating": 6.6,
+    "poster": "https://image.tmdb.org/t/p/w400/L3MPoQSvfbHZAJEdskXTM1vdHi.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/14956-dollhouse",
+    "showname": "Dollhouse",
+    "seasons": 2,
+    "episodes": 13,
+    "rating": 7.7,
+    "poster": "https://image.tmdb.org/t/p/w400/oq5WPzUn7R0YcIk7QGwpXqvgSWO.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/5459-dont-mess-with-the-angel",
+    "showname": "Don't Mess with the Angel",
+    "seasons": null,
+    "episodes": 194,
+    "rating": 6.6,
+    "poster": "https://image.tmdb.org/t/p/w400/8lVsyvIfxEDYUfZTZ3weIwQCu6j.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/39331-dont-trust-the-b-in-apartment-23",
+    "showname": "Don't Trust the B---- in Apartment 23",
+    "seasons": 2,
+    "episodes": 19,
+    "rating": 7.3,
+    "poster": "https://image.tmdb.org/t/p/w400/ice3QRGMPs7JpwV8Fb8BpfWtYxP.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/83100-dororo",
+    "showname": "Dororo",
+    "seasons": null,
+    "episodes": 24,
+    "rating": 8.2,
+    "poster": "https://image.tmdb.org/t/p/w400/2qSzgSE80OFrfgg5UFYbATdCQ6t.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/118956-dota-dragons-blood",
+    "showname": "DOTA: Dragon's Blood",
+    "seasons": 3,
+    "episodes": 8,
+    "rating": 7.7,
+    "poster": "https://image.tmdb.org/t/p/w400/s1wP1YeQS9fgSHiXZ3yJb2ufB2D.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/236994-dragon-ball-daima",
+    "showname": "Dragon Ball DAIMA",
+    "seasons": null,
+    "episodes": 20,
+    "rating": 7.8,
+    "poster": "https://image.tmdb.org/t/p/w400/8tpLyWAmYhe1D0d62gV3CWFDu2f.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/62715-dragon-ball-super",
+    "showname": "Dragon Ball Super",
+    "seasons": null,
+    "episodes": 131,
+    "rating": 8.3,
+    "poster": "https://image.tmdb.org/t/p/w400/qEUrbXJ2qt4Rg84Btlx4STOhgte.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/61709-dragon-ball-z-kai",
+    "showname": "Dragon Ball Z Kai",
+    "seasons": 2,
+    "episodes": 98,
+    "rating": 8.3,
+    "poster": "https://image.tmdb.org/t/p/w400/ykl67ghR2ug6KGFH3CQcI01pzQJ.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/4336-drawn-together",
+    "showname": "Drawn Together",
+    "seasons": 3,
+    "episodes": 15,
+    "rating": 7.1,
+    "poster": "https://image.tmdb.org/t/p/w400/xhshQ2WgAa5zyXqwRcxKMDwRBGd.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/44305-dreamworks-dragons",
+    "showname": "DreamWorks Dragons",
+    "seasons": 2,
+    "episodes": 20,
+    "rating": 7.9,
+    "poster": "https://image.tmdb.org/t/p/w400/gFhBIF8oXjpdVk1NbI4kP4l8LAe.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/90228-dune-prophecy",
+    "showname": "Dune: Prophecy",
+    "seasons": 2,
+    "episodes": 8,
+    "rating": 7.3,
+    "poster": "https://image.tmdb.org/t/p/w400/oWVohNsxkxA3u92EzRo8fTuXIS0.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/8624-eastbound-down",
+    "showname": "Eastbound & Down",
+    "seasons": 4,
+    "episodes": 8,
+    "rating": 8.2,
+    "poster": "https://image.tmdb.org/t/p/w400/grAnpm6mv6aipoGeS0yS6RuTZSG.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/122226-echo",
+    "showname": "Echo",
+    "seasons": 1,
+    "episodes": 5,
+    "rating": 5.9,
+    "poster": "https://image.tmdb.org/t/p/w400/vFyJH630cF68LohVYjQW49074Sy.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/606-ed-edd-n-eddy",
+    "showname": "Ed, Edd n Eddy",
+    "seasons": 6,
+    "episodes": 23,
+    "rating": 7.4,
+    "poster": "https://image.tmdb.org/t/p/w400/nfKenwmfmdtoXGhaYiDIftrBchw.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/31268-el-capo",
+    "showname": "El Capo",
+    "seasons": 4,
+    "episodes": 90,
+    "rating": 7.2,
+    "poster": "https://image.tmdb.org/t/p/w400/hTwfFidPtRU3BUH8mK90jWyPyBr.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/71411-el-chapo",
+    "showname": "El Chapo",
+    "seasons": 3,
+    "episodes": 13,
+    "rating": 7.8,
+    "poster": "https://image.tmdb.org/t/p/w400/3FzlvQ5Ea35Zdz71Ye7JSvB6VdB.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/13023-el-chapuln-colorado",
+    "showname": "El Chapulín Colorado",
+    "seasons": 7,
+    "episodes": 42,
+    "rating": 8.5,
+    "poster": "https://image.tmdb.org/t/p/w400/rcLjSvfQVxE27TidowGra2A3aYq.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/58111-extant",
+    "showname": "Extant",
+    "seasons": 2,
+    "episodes": 13,
+    "rating": 6.5,
+    "poster": "https://image.tmdb.org/t/p/w400/nFwqHXoP1FxFbd8G8dY13y9bfAX.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/197067-extraordinary-attorney-woo",
+    "showname": "Extraordinary Attorney Woo",
+    "seasons": null,
+    "episodes": 16,
+    "rating": 8.5,
+    "poster": "https://image.tmdb.org/t/p/w400/zuNOQVI4rEaqwknrfQUVKtlKE2C.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/2693-extras",
+    "showname": "Extras",
+    "seasons": 2,
+    "episodes": 7,
+    "rating": 8.3,
+    "poster": "https://image.tmdb.org/t/p/w400/oxiA2O4wRBCOzvfxYjNKZQuitQc.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/46261-fairy-tail",
+    "showname": "Fairy Tail",
+    "seasons": 8,
+    "episodes": 54,
+    "rating": 7.8,
+    "poster": "https://image.tmdb.org/t/p/w400/h50lj7xO65qafNYZCrfQ7ztkMBD.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/82809-false-identity",
+    "showname": "False Identity",
+    "seasons": 2,
+    "episodes": 91,
+    "rating": 7.0,
+    "poster": "https://image.tmdb.org/t/p/w400/rGIVID9KFrE6oMOtqost2Ccd9Co.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/61415-fatestay-night-unlimited-blade-works",
+    "showname": "Fate/stay night [Unlimited Blade Works]",
+    "seasons": 2,
+    "episodes": 14,
+    "rating": 8.0,
+    "poster": "https://image.tmdb.org/t/p/w400/jyqi5BkDoKKIA2WAoz3HBtRHld3.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/97175-fate-the-winx-saga",
+    "showname": "Fate: The Winx Saga",
+    "seasons": 2,
+    "episodes": 7,
+    "rating": 6.8,
+    "poster": "https://image.tmdb.org/t/p/w400/oHj6guMrLfQcBzo3uxwBJc8Y736.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/87049-firefly-lane",
+    "showname": "Firefly Lane",
+    "seasons": 2,
+    "episodes": 16,
+    "rating": 7.7,
+    "poster": "https://image.tmdb.org/t/p/w400/2AavbPEEXzyy7Smyusozyz48T1n.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/19092-flashforward",
+    "showname": "FlashForward",
+    "seasons": null,
+    "episodes": 22,
+    "rating": 7.6,
+    "poster": "https://image.tmdb.org/t/p/w400/7iu2HJ8ZSNbBgFLi42JNcuPjBax.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/5895-flcl",
+    "showname": "FLCL",
+    "seasons": 1,
+    "episodes": 6,
+    "rating": 8.1,
+    "poster": "https://image.tmdb.org/t/p/w400/FkgA8CcmiLJGVCRYRQ2g2UfVtF.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/67070-fleabag",
+    "showname": "Fleabag",
+    "seasons": 2,
+    "episodes": 6,
+    "rating": 8.7,
+    "poster": "https://image.tmdb.org/t/p/w400/27vEYsRKa3eAniwmoccOoluEXQ1.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/62273-food-wars-shokugeki-no-soma",
+    "showname": "Food Wars! Shokugeki no Soma",
+    "seasons": 5,
+    "episodes": 26,
+    "rating": 8.0,
+    "poster": "https://image.tmdb.org/t/p/w400/eAQHqcJXP0FBzXvQkIV5g5ZueZb.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/60726-forever",
+    "showname": "Forever",
+    "seasons": null,
+    "episodes": 22,
+    "rating": 8.2,
+    "poster": "https://image.tmdb.org/t/p/w400/4OnnU4j2tQEOnsPnRZswW91v9vr.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/87083-formula-1-drive-to-survive",
+    "showname": "Formula 1: Drive to Survive",
+    "seasons": 9,
+    "episodes": 10,
+    "rating": 8.5,
+    "poster": "https://image.tmdb.org/t/p/w400/xGOGjJFYYeRSoOpnhN9IHZTXIxj.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/1720-fosters-home-for-imaginary-friends",
+    "showname": "Foster's Home for Imaginary Friends",
+    "seasons": 6,
+    "episodes": 21,
+    "rating": 7.5,
+    "poster": "https://image.tmdb.org/t/p/w400/kj6oGL4qqFDY8PGmTloqGQ2TblS.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/2382-freaks-and-geeks",
+    "showname": "Freaks and Geeks",
+    "seasons": null,
+    "episodes": 18,
+    "rating": 8.8,
+    "poster": "https://image.tmdb.org/t/p/w400/tPqV63zcW6ZV0Hd48DMGb5UzQIG.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/60626-from-dusk-till-dawn-the-series",
+    "showname": "From Dusk Till Dawn: The Series",
+    "seasons": 3,
+    "episodes": 10,
+    "rating": 6.8,
+    "poster": "https://image.tmdb.org/t/p/w400/pAfTOb7lHvRlTa86jw99nM8iU3K.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/73157-future-man",
+    "showname": "Future Man",
+    "seasons": 3,
+    "episodes": 13,
+    "rating": 7.6,
+    "poster": "https://image.tmdb.org/t/p/w400/49mOgAEa4eKpPsoBH8UvvXwEMDT.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/85021-gangs-of-london",
+    "showname": "Gangs of London",
+    "seasons": 4,
+    "episodes": 9,
+    "rating": 8.0,
+    "poster": "https://image.tmdb.org/t/p/w400/fVgwa6wGw9ddGM5O7mqrrwB6gHK.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/1095-ghost-in-the-shell-stand-alone-complex",
+    "showname": "Ghost in the Shell: Stand Alone Complex",
+    "seasons": 2,
+    "episodes": 26,
+    "rating": 8.5,
+    "poster": "https://image.tmdb.org/t/p/w400/6UH2vJryPpQp38noqvchu3uEeqX.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/34105-golden-boy",
+    "showname": "Golden Boy",
+    "seasons": 1,
+    "episodes": 6,
+    "rating": 8.0,
+    "poster": "https://image.tmdb.org/t/p/w400/ahkQ6qnqouwZw7nro2YDEYLzrNn.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/67389-golden-time",
+    "showname": "Golden Time",
+    "seasons": null,
+    "episodes": 24,
+    "rating": 7.6,
+    "poster": "https://image.tmdb.org/t/p/w400/8HfxpBAOTNbWRemKwaLKNRjzaiy.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/95249-gossip-girl",
+    "showname": "Gossip Girl",
+    "seasons": 2,
+    "episodes": 12,
+    "rating": 5.4,
+    "poster": "https://image.tmdb.org/t/p/w400/4XmRg3iF1drIikTzRLUfn7cJDio.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/83659-guillermo-del-toros-cabinet-of-curiosities",
+    "showname": "Guillermo del Toro's Cabinet of Curiosities",
+    "seasons": 1,
+    "episodes": 8,
+    "rating": 7.0,
+    "poster": "https://image.tmdb.org/t/p/w400/a91e9hpWwfCqxJI4xM9Q2RhuxgI.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/54155-hanna",
+    "showname": "Hanna",
+    "seasons": 3,
+    "episodes": 8,
+    "rating": 7.6,
+    "poster": "https://image.tmdb.org/t/p/w400/iYUtjx1EN4SVTgxd2TB4cZTGSQb.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/61244-happy-valley",
+    "showname": "Happy Valley",
+    "seasons": 3,
+    "episodes": 6,
+    "rating": 8.5,
+    "poster": "https://image.tmdb.org/t/p/w400/xZK5iQSrn2mouZEk2PwyLPCwa4u.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/124834-heartstopper",
+    "showname": "Heartstopper",
+    "seasons": 3,
+    "episodes": 8,
+    "rating": 8.5,
+    "poster": "https://image.tmdb.org/t/p/w400/wJJt1HG62h3WoGnLcRIbO2nNNkg.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/42295-hemlock-grove",
+    "showname": "Hemlock Grove",
+    "seasons": 3,
+    "episodes": 13,
+    "rating": 7.0,
+    "poster": "https://image.tmdb.org/t/p/w400/sjGOYM7GTG03aWUZIFOUiFDTeoL.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/87623-hercai",
+    "showname": "Hercai",
+    "seasons": 3,
+    "episodes": 38,
+    "rating": 6.6,
+    "poster": "https://image.tmdb.org/t/p/w400/6VGJ281Lk2gbrTqZlegKqevzG7D.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/85801-high-school-musical-the-musical-the-series",
+    "showname": "High School Musical: The Musical: The Series",
+    "seasons": 4,
+    "episodes": 12,
+    "rating": 7.1,
+    "poster": "https://image.tmdb.org/t/p/w400/2KmbFkZD42I8Q7IZy4WxmZm9W6O.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/67126-himouto-umaru-chan",
+    "showname": "Himouto! Umaru-chan",
+    "seasons": 2,
+    "episodes": 14,
+    "rating": 7.1,
+    "poster": "https://image.tmdb.org/t/p/w400/3Vif9pWDEWtQg0gTREOV4lBEBCP.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/259731-his-hers",
+    "showname": "HIS & HERS",
+    "seasons": 1,
+    "episodes": 6,
+    "rating": 7.1,
+    "poster": "https://image.tmdb.org/t/p/w400/cDSXLVQLkCSBIpBx3UW04TsfZ5c.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/98161-home-before-dark",
+    "showname": "Home Before Dark",
+    "seasons": 2,
+    "episodes": 10,
+    "rating": 7.4,
+    "poster": "https://image.tmdb.org/t/p/w400/mt4P2epJrSaqrlkMP9fTUKLP9OE.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/128883-hometown-cha-cha-cha",
+    "showname": "Hometown Cha-Cha-Cha",
+    "seasons": null,
+    "episodes": 16,
+    "rating": 8.3,
+    "poster": "https://image.tmdb.org/t/p/w400/en6lrlJ1DhyvkeZEqrk3R6EJz1p.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/62822-humans",
+    "showname": "Humans",
+    "seasons": 3,
+    "episodes": 8,
+    "rating": 7.9,
+    "poster": "https://image.tmdb.org/t/p/w400/iBjjSGgnjAQBSQGO9pYIh7Gp2PO.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/119243-icarly",
+    "showname": "iCarly",
+    "seasons": 3,
+    "episodes": 13,
+    "rating": 6.7,
+    "poster": "https://image.tmdb.org/t/p/w400/tM4P2RNIIFzFJi7UngNVB80sRCp.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/80743-insatiable",
+    "showname": "Insatiable",
+    "seasons": 2,
+    "episodes": 12,
+    "rating": 6.5,
+    "poster": "https://image.tmdb.org/t/p/w400/lHZ4xqGQlmyiFTOVtwnNpTcZgkd.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/97727-inside-job",
+    "showname": "Inside Job",
+    "seasons": 2,
+    "episodes": 10,
+    "rating": 7.7,
+    "poster": "https://image.tmdb.org/t/p/w400/qwJUDMJ4i3KBYjeUFK9Js87iJEa.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/96444-interspecies-reviewers",
+    "showname": "Interspecies Reviewers",
+    "seasons": 1,
+    "episodes": 12,
+    "rating": 7.1,
+    "poster": "https://image.tmdb.org/t/p/w400/xJZwaZAXoon6wxkgXiWQNEeyW4C.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/128098-interview-with-the-vampire",
+    "showname": "Interview with the Vampire",
+    "seasons": 3,
+    "episodes": 8,
+    "rating": 7.6,
+    "poster": "https://image.tmdb.org/t/p/w400/Afv4pPhqVMg2wOmhuDLiGUw4r4O.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/47450-into-the-badlands",
+    "showname": "Into the Badlands",
+    "seasons": 3,
+    "episodes": 16,
+    "rating": 7.9,
+    "poster": "https://image.tmdb.org/t/p/w400/jtceMKMxHSriLFUGAUfqHsW7uCo.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/19614-it",
+    "showname": "It",
+    "seasons": 1,
+    "episodes": 2,
+    "rating": 6.8,
+    "poster": "https://image.tmdb.org/t/p/w400/4ybQ6gopB3H3cu0seVZLznDnIKo.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/96462-its-okay-to-not-be-okay",
+    "showname": "It's Okay to Not Be Okay",
+    "seasons": null,
+    "episodes": 16,
+    "rating": 8.6,
+    "poster": "https://image.tmdb.org/t/p/w400/8XSJfLeImX8NszDUFnK1lbseCi8.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/365-jericho",
+    "showname": "Jericho",
+    "seasons": 2,
+    "episodes": 22,
+    "rating": 7.9,
+    "poster": "https://image.tmdb.org/t/p/w400/a57H9UsS388Av2LSLKO9inNmY7j.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/19649-jesus-of-nazareth",
+    "showname": "Jesus of Nazareth",
+    "seasons": 1,
+    "episodes": 4,
+    "rating": 8.5,
+    "poster": "https://image.tmdb.org/t/p/w400/dlGmVpZ2rpGRDZsSa64nzyu90xk.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/93741-jurassic-world-camp-cretaceous",
+    "showname": "Jurassic World Camp Cretaceous",
+    "seasons": 5,
+    "episodes": 12,
+    "rating": 7.5,
+    "poster": "https://image.tmdb.org/t/p/w400/nkCbCmlwjwT6QL44DqG7qE9ch8H.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/1618-justice-league",
+    "showname": "Justice League",
+    "seasons": 2,
+    "episodes": 26,
+    "rating": 8.5,
+    "poster": "https://image.tmdb.org/t/p/w400/caIAQIoM9NLZofT8fz8t47W1gYe.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/62741-kamisama-kiss",
+    "showname": "Kamisama Kiss",
+    "seasons": 2,
+    "episodes": 13,
+    "rating": 8.1,
+    "poster": "https://image.tmdb.org/t/p/w400/5E7GL8KxpFemEFl3Lv8Fu4RuSwa.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/62413-killjoys",
+    "showname": "Killjoys",
+    "seasons": 5,
+    "episodes": 10,
+    "rating": 7.2,
+    "poster": "https://image.tmdb.org/t/p/w400/xnQ7WVAxlk9UAVWDLDeYGTKRaOf.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/70593-kingdom",
+    "showname": "Kingdom",
+    "seasons": 2,
+    "episodes": 6,
+    "rating": 8.3,
+    "poster": "https://image.tmdb.org/t/p/w400/AsICtiVtz4icMQQRwDvOzfaTzjK.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/15655-knight-rider",
+    "showname": "Knight Rider",
+    "seasons": null,
+    "episodes": 17,
+    "rating": 5.6,
+    "poster": "https://image.tmdb.org/t/p/w400/e93H0P6GYoDUhHR5uCdmfLDAvKt.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/45783-kurokos-basketball",
+    "showname": "Kuroko's Basketball",
+    "seasons": 3,
+    "episodes": 26,
+    "rating": 8.2,
+    "poster": "https://image.tmdb.org/t/p/w400/qi8dlAgQEeahpEn1AOb5BJEOcVB.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/219-kyle-xy",
+    "showname": "Kyle XY",
+    "seasons": 3,
+    "episodes": 23,
+    "rating": 7.4,
+    "poster": "https://image.tmdb.org/t/p/w400/4omwjf3HgGx4nZXcA0Avmd9bQny.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/68878-la-doa",
+    "showname": "La Doña",
+    "seasons": 2,
+    "episodes": 121,
+    "rating": 7.2,
+    "poster": "https://image.tmdb.org/t/p/w400/xPe11sREBZIPUB1SnwckuElru1h.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/11721-la-fea-ms-bella",
+    "showname": "La fea más bella",
+    "seasons": null,
+    "episodes": 300,
+    "rating": 5.8,
+    "poster": "https://image.tmdb.org/t/p/w400/iLjqdtSIMiodUlcSqRJ4JEW5gG1.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/31586-la-reina-del-sur",
+    "showname": "La Reina del Sur",
+    "seasons": 3,
+    "episodes": 63,
+    "rating": 7.8,
+    "poster": "https://image.tmdb.org/t/p/w400/1qCGOuNVOlaBb7MMDen6CLzp0UE.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/35527-la-tormenta",
+    "showname": "La tormenta",
+    "seasons": null,
+    "episodes": 216,
+    "rating": 6.9,
+    "poster": "https://image.tmdb.org/t/p/w400/9qyd6CVZPrb0OzFtsRo6RBZauZz.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/67195-legion",
+    "showname": "Legion",
+    "seasons": 3,
+    "episodes": 11,
+    "rating": 8.1,
+    "poster": "https://image.tmdb.org/t/p/w400/xhJtYVTsdXQCIlB5hAXkMCPUG9y.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/117303-lessons-in-chemistry",
+    "showname": "Lessons in Chemistry",
+    "seasons": 1,
+    "episodes": 8,
+    "rating": 8.2,
+    "poster": "https://image.tmdb.org/t/p/w400/tCPIf5f6jUIr8KDMWsfaXwXW0kl.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/4575-lizzie-mcguire",
+    "showname": "Lizzie McGuire",
+    "seasons": 2,
+    "episodes": 34,
+    "rating": 6.6,
+    "poster": "https://image.tmdb.org/t/p/w400/1ZOelP1XNP8eCwkhJvwRyVU9Ymd.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/86423-locke-key",
+    "showname": "Locke & Key",
+    "seasons": 3,
+    "episodes": 10,
+    "rating": 7.3,
+    "poster": "https://image.tmdb.org/t/p/w400/zuxGfRKziGHPogipnEXXykdDmyT.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/45501-love-chunibyo-other-delusions",
+    "showname": "Love, Chunibyo & Other Delusions!",
+    "seasons": 2,
+    "episodes": 13,
+    "rating": 7.4,
+    "poster": "https://image.tmdb.org/t/p/w400/1IapEqydEiGO0gCgBPVexTFbUCS.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/97186-love-victor",
+    "showname": "Love, Victor",
+    "seasons": 3,
+    "episodes": 10,
+    "rating": 7.9,
+    "poster": "https://image.tmdb.org/t/p/w400/pcT1vivabBnBk0tZgVBO1I8aK75.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/1426-luther",
+    "showname": "Luther",
+    "seasons": 5,
+    "episodes": 6,
+    "rating": 8.4,
+    "poster": "https://image.tmdb.org/t/p/w400/hDxOMX8zzH1FiqKWVBzNaYGBkle.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/60930-magnificent-century-ksem",
+    "showname": "Magnificent Century: Kösem",
+    "seasons": 2,
+    "episodes": 30,
+    "rating": 6.7,
+    "poster": "https://image.tmdb.org/t/p/w400/4cSbpfXX9YPMPi1Ggauh7Xm7qmW.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/72597-manhunt",
+    "showname": "Manhunt",
+    "seasons": 2,
+    "episodes": 10,
+    "rating": 8.1,
+    "poster": "https://image.tmdb.org/t/p/w400/9ukZcwaqcObmmxxfcIXTgVMvalJ.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/60699-marco-polo",
+    "showname": "Marco Polo",
+    "seasons": 2,
+    "episodes": 10,
+    "rating": 7.9,
+    "poster": "https://image.tmdb.org/t/p/w400/syYTHCBvFlobr8eJjQMKAjrn9yV.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/115004-mare-of-easttown",
+    "showname": "Mare of Easttown",
+    "seasons": 2,
+    "episodes": 7,
+    "rating": 8.4,
+    "poster": "https://image.tmdb.org/t/p/w400/78aK4Msbr22A5PGa6PZV0pAvdwf.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/221851-marry-my-husband",
+    "showname": "Marry My Husband",
+    "seasons": null,
+    "episodes": 16,
+    "rating": 7.8,
+    "poster": "https://image.tmdb.org/t/p/w400/899KcBqooj8nEyPcAEU3h7AdfUo.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/138505-marvel-zombies",
+    "showname": "Marvel Zombies",
+    "seasons": 2,
+    "episodes": 4,
+    "rating": 7.0,
+    "poster": "https://image.tmdb.org/t/p/w400/mwKj9ERGFXsWot0nXgQ5yMQf9I7.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/61550-marvels-agent-carter",
+    "showname": "Marvel's Agent Carter",
+    "seasons": 2,
+    "episodes": 10,
+    "rating": 7.8,
+    "poster": "https://image.tmdb.org/t/p/w400/7kqIsjjDMZA5GRMH5VCdQYZJqc6.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/67466-marvels-runaways",
+    "showname": "Marvel's Runaways",
+    "seasons": 3,
+    "episodes": 13,
+    "rating": 6.8,
+    "poster": "https://image.tmdb.org/t/p/w400/hnHEhbzh0F7kN3Ah1lzRjtQuW16.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/12965-mara-la-del-barrio",
+    "showname": "María la del Barrio",
+    "seasons": null,
+    "episodes": 185,
+    "rating": 7.3,
+    "poster": "https://image.tmdb.org/t/p/w400/xGMquh71mh3w3QzUrl1AhCniHys.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/64254-master-of-none",
+    "showname": "Master of None",
+    "seasons": 3,
+    "episodes": 10,
+    "rating": 8.2,
+    "poster": "https://image.tmdb.org/t/p/w400/AcJM86PhgHAfbrF4dMKBaqO3cHV.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/3470-masters-of-horror",
+    "showname": "Masters of Horror",
+    "seasons": 2,
+    "episodes": 13,
+    "rating": 7.4,
+    "poster": "https://image.tmdb.org/t/p/w400/vgTy1Lfi5P1yD7ZvsuoPKYvxwzv.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/46518-masters-of-the-air",
+    "showname": "Masters of the Air",
+    "seasons": 1,
+    "episodes": 9,
+    "rating": 7.8,
+    "poster": "https://image.tmdb.org/t/p/w400/rSAmgcoA74371rplbqM27yVsd3y.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/207863-mayfair-witches",
+    "showname": "Mayfair Witches",
+    "seasons": 3,
+    "episodes": 8,
+    "rating": 6.2,
+    "poster": "https://image.tmdb.org/t/p/w400/eDl1veju2Hf3tyFmGAedtGXb9Yv.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/19253-mazinger-z",
+    "showname": "Mazinger Z",
+    "seasons": null,
+    "episodes": 92,
+    "rating": 7.8,
+    "poster": "https://image.tmdb.org/t/p/w400/woGUtAdRwjzWgobGvF3ebW1WsKY.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/66761-medici-masters-of-florence",
+    "showname": "Medici: Masters of Florence",
+    "seasons": 3,
+    "episodes": 8,
+    "rating": 7.8,
+    "poster": "https://image.tmdb.org/t/p/w400/vFtsI6Nk3cy2l4LGoh1aFRZKaQ7.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/79818-meteor-garden",
+    "showname": "Meteor Garden",
+    "seasons": null,
+    "episodes": 50,
+    "rating": 7.8,
+    "poster": "https://image.tmdb.org/t/p/w400/8yhIaFcLHBPppaeY1iu9GzHtaqf.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/78950-miracle-workers",
+    "showname": "Miracle Workers",
+    "seasons": 4,
+    "episodes": 10,
+    "rating": 7.1,
+    "poster": "https://image.tmdb.org/t/p/w400/uF1xaklzom7wmnmUsR1ORU5NmEL.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/31295-misfits",
+    "showname": "Misfits",
+    "seasons": 5,
+    "episodes": 8,
+    "rating": 8.1,
+    "poster": "https://image.tmdb.org/t/p/w400/pkGPHO7WxViedkOm6Xy1aWSS36l.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/117378-mouse",
+    "showname": "Mouse",
+    "seasons": null,
+    "episodes": 22,
+    "rating": 8.6,
+    "poster": "https://image.tmdb.org/t/p/w400/qz0axqEwwIa5uaMsUYKGs9u29ut.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/81358-mr-inbetween",
+    "showname": "Mr Inbetween",
+    "seasons": 3,
+    "episodes": 11,
+    "rating": 8.7,
+    "poster": "https://image.tmdb.org/t/p/w400/1FkONly4j7hxi6Pz5CmuhRN1Ops.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/2530-mr-bean-the-animated-series",
+    "showname": "Mr. Bean: The Animated Series",
+    "seasons": 6,
+    "episodes": 52,
+    "rating": 6.9,
+    "poster": "https://image.tmdb.org/t/p/w400/1V2PSez4pNZ9a4Bbomm7KZiQJ44.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/108261-mr-queen",
+    "showname": "Mr. Queen",
+    "seasons": null,
+    "episodes": 20,
+    "rating": 8.5,
+    "poster": "https://image.tmdb.org/t/p/w400/ozuyMnOO5pekDklyPpUL1Htkuzy.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/92967-mucize-doktor",
+    "showname": "Mucize Doktor",
+    "seasons": 2,
+    "episodes": 36,
+    "rating": 7.0,
+    "poster": "https://image.tmdb.org/t/p/w400/29ifz2K8kqZD6eb2sTKBP9Hlc3N.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/241554-murderbot",
+    "showname": "Murderbot",
+    "seasons": 2,
+    "episodes": 10,
+    "rating": 7.4,
+    "poster": "https://image.tmdb.org/t/p/w400/mIKfKo2uDk3itzAPYIcSeYr4KtF.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/72296-my-first-girlfriend-is-a-gal",
+    "showname": "My First Girlfriend Is a Gal",
+    "seasons": 1,
+    "episodes": 11,
+    "rating": 6.2,
+    "poster": "https://image.tmdb.org/t/p/w400/j7EPg0hgtlMShzhCGcxDj4pvwNK.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/199001-my-life-with-the-walter-boys",
+    "showname": "My Life with the Walter Boys",
+    "seasons": 3,
+    "episodes": 10,
+    "rating": 6.8,
+    "poster": "https://image.tmdb.org/t/p/w400/jg3YdxDNlxay0NWTxgAPif647Hj.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/62565-my-love-story",
+    "showname": "My Love Story!!",
+    "seasons": null,
+    "episodes": 24,
+    "rating": 7.7,
+    "poster": "https://image.tmdb.org/t/p/w400/oKvrM8WVOGcSSwIKFfsAxIuk6Nx.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/110356-my-name",
+    "showname": "My Name",
+    "seasons": 1,
+    "episodes": 8,
+    "rating": 7.8,
+    "poster": "https://image.tmdb.org/t/p/w400/gHozOomiA24DvlgNfjkYCB5NBiO.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/94951-mythic-quest",
+    "showname": "Mythic Quest",
+    "seasons": 4,
+    "episodes": 11,
+    "rating": 7.7,
+    "poster": "https://image.tmdb.org/t/p/w400/7QxQlpqEjx3vRpEtuh6Y0R6eY9O.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/1600-neds-declassified-school-survival-guide",
+    "showname": "Ned's Declassified School Survival Guide",
+    "seasons": 3,
+    "episodes": 21,
+    "rating": 7.4,
+    "poster": "https://image.tmdb.org/t/p/w400/3kUXoJFmj6vOdmqMMoiYZj0eY2F.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/202284-ninja-kamui",
+    "showname": "Ninja Kamui",
+    "seasons": 1,
+    "episodes": 13,
+    "rating": 7.0,
+    "poster": "https://image.tmdb.org/t/p/w400/A7mYSloFonDcQtHTqyLqEg9rIkh.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/62640-nisekoi",
+    "showname": "Nisekoi",
+    "seasons": 2,
+    "episodes": 20,
+    "rating": 7.2,
+    "poster": "https://image.tmdb.org/t/p/w400/vYfnw5eRLrne4ZLDaRdHgvGyys7.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/85273-nos4a2",
+    "showname": "NOS4A2",
+    "seasons": 2,
+    "episodes": 10,
+    "rating": 6.6,
+    "poster": "https://image.tmdb.org/t/p/w400/gnosVTTRTCqooJuipwU6C0bgOGf.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/92830-obi-wan-kenobi",
+    "showname": "Obi-Wan Kenobi",
+    "seasons": 1,
+    "episodes": 6,
+    "rating": 7.0,
+    "poster": "https://image.tmdb.org/t/p/w400/4Lok3HBSfbQxibQZBygoVCwKKrZ.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/66958-orange",
+    "showname": "Orange",
+    "seasons": 1,
+    "episodes": 13,
+    "rating": 7.7,
+    "poster": "https://image.tmdb.org/t/p/w400/6GGkAhfjZy9rOvUD7K927vnltZA.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/113985-outer-range",
+    "showname": "Outer Range",
+    "seasons": 2,
+    "episodes": 8,
+    "rating": 7.1,
+    "poster": "https://image.tmdb.org/t/p/w400/9leGmIDamsWJELYz0pZkr2EXUFf.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/11250-pasin-de-gavilanes",
+    "showname": "Pasión de Gavilanes",
+    "seasons": 2,
+    "episodes": 188,
+    "rating": 7.8,
+    "poster": "https://image.tmdb.org/t/p/w400/91UV7pNcDPhIzJl7EuK36sK5vRG.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/815-peep-show",
+    "showname": "Peep Show",
+    "seasons": 9,
+    "episodes": 6,
+    "rating": 8.7,
+    "poster": "https://image.tmdb.org/t/p/w400/6rdoQ0cTjsEQLIwEjhBV8U98oUm.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/54671-penny-dreadful",
+    "showname": "Penny Dreadful",
+    "seasons": 3,
+    "episodes": 10,
+    "rating": 8.2,
+    "poster": "https://image.tmdb.org/t/p/w400/hQSdrXBYTbLGHYDIseHkBOPXTgL.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/79588-pennyworth-the-origin-of-batmans-butler",
+    "showname": "Pennyworth: The Origin of Batman's Butler",
+    "seasons": 3,
+    "episodes": 10,
+    "rating": 7.8,
+    "poster": "https://image.tmdb.org/t/p/w400/mEHMfWe7pCWMelEkdrtRvVULopT.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/79084-pose",
+    "showname": "POSE",
+    "seasons": 3,
+    "episodes": 10,
+    "rating": 8.6,
+    "poster": "https://image.tmdb.org/t/p/w400/5f23i30nFJz0nrd3DGheOCqXa2P.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/64230-preacher",
+    "showname": "Preacher",
+    "seasons": 4,
+    "episodes": 13,
+    "rating": 7.9,
+    "poster": "https://image.tmdb.org/t/p/w400/ey1WQajA25E5sFGHSApcqSWUSEc.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/95171-prehistoric-planet",
+    "showname": "Prehistoric Planet",
+    "seasons": 3,
+    "episodes": 5,
+    "rating": 8.4,
+    "poster": "https://image.tmdb.org/t/p/w400/9yjWMmYWQSDY2eelHECQcwSL816.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/156933-presumed-innocent",
+    "showname": "Presumed Innocent",
+    "seasons": 2,
+    "episodes": 8,
+    "rating": 7.7,
+    "poster": "https://image.tmdb.org/t/p/w400/7MXg0BxuSRWz2yKc03M40du2mrc.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/10268-primeval",
+    "showname": "Primeval",
+    "seasons": 5,
+    "episodes": 10,
+    "rating": 7.2,
+    "poster": "https://image.tmdb.org/t/p/w400/pjRhnncEnTT8T5YsLbTb0A4msuQ.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/64706-prison-school",
+    "showname": "Prison School",
+    "seasons": 1,
+    "episodes": 12,
+    "rating": 7.5,
+    "poster": "https://image.tmdb.org/t/p/w400/tqtd72674k19IfGYJ2wdGJGvXX.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/39218-puella-magi-madoka-magica",
+    "showname": "Puella Magi Madoka Magica",
+    "seasons": 1,
+    "episodes": 12,
+    "rating": 8.2,
+    "poster": "https://image.tmdb.org/t/p/w400/9Leopb4OB9j9FkP5JNHRZZlPPdg.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/5639-pushing-daisies",
+    "showname": "Pushing Daisies",
+    "seasons": 3,
+    "episodes": 13,
+    "rating": 8.4,
+    "poster": "https://image.tmdb.org/t/p/w400/oSRO8cGvve0pggPK9gHGItfl4j5.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/66676-queen-of-the-south",
+    "showname": "Queen of the South",
+    "seasons": 5,
+    "episodes": 13,
+    "rating": 8.0,
+    "poster": "https://image.tmdb.org/t/p/w400/rzdC5EHkkKJE6OPVdh6gT1pR1c9.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/85723-raised-by-wolves",
+    "showname": "Raised by Wolves",
+    "seasons": 2,
+    "episodes": 10,
+    "rating": 7.4,
+    "poster": "https://image.tmdb.org/t/p/w400/mTvSVKMn2Npf6zvYNbGMJnYLtvp.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/114868-record-of-ragnarok",
+    "showname": "Record of Ragnarok",
+    "seasons": 3,
+    "episodes": 15,
+    "rating": 6.6,
+    "poster": "https://image.tmdb.org/t/p/w400/t6GEKms3JgLhC6pXjFHhDvPP65y.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/657-rockos-modern-life",
+    "showname": "Rocko's Modern Life",
+    "seasons": 4,
+    "episodes": 13,
+    "rating": 7.9,
+    "poster": "https://image.tmdb.org/t/p/w400/ydi5M4Dq10Doi9PPkkN95T8ao7Z.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/74428-rosario-tijeras-mexico",
+    "showname": "Rosario Tijeras (Mexico)",
+    "seasons": 4,
+    "episodes": 70,
+    "rating": 6.3,
+    "poster": "https://image.tmdb.org/t/p/w400/q03eQL8AUx49lVH6IT3IlmWzhQu.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/77696-run-bts",
+    "showname": "Run BTS!",
+    "seasons": 4,
+    "episodes": 99,
+    "rating": 9.2,
+    "poster": "https://image.tmdb.org/t/p/w400/xi6fnObkhQI7onZWeSB9rA80Abs.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/69346-saga-of-tanya-the-evil",
+    "showname": "Saga of Tanya the Evil",
+    "seasons": 2,
+    "episodes": 12,
+    "rating": 7.6,
+    "poster": "https://image.tmdb.org/t/p/w400/5nwiHomKZBBF9DLrolfZapi3fDm.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/61339-sailor-moon-crystal",
+    "showname": "Sailor Moon Crystal",
+    "seasons": 3,
+    "episodes": 13,
+    "rating": 7.8,
+    "poster": "https://image.tmdb.org/t/p/w400/mVXlsNJw4fxD2UWNzaUh2TFfI5c.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/90855-saint-seiya-knights-of-the-zodiac",
+    "showname": "SAINT SEIYA: Knights of the Zodiac",
+    "seasons": 3,
+    "episodes": 12,
+    "rating": 4.7,
+    "poster": "https://image.tmdb.org/t/p/w400/yzfjuIkWzO0ImMEgg9fMHDzR3JP.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/45666-sam-cat",
+    "showname": "Sam & Cat",
+    "seasons": null,
+    "episodes": 35,
+    "rating": 5.8,
+    "poster": "https://image.tmdb.org/t/p/w400/8zL3NVH0owqVDxKvlnG3Df5aWuT.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/1063-samurai-champloo",
+    "showname": "Samurai Champloo",
+    "seasons": null,
+    "episodes": 26,
+    "rating": 8.5,
+    "poster": "https://image.tmdb.org/t/p/w400/lYpHeSm7BcUxAbBx1ucuEH7oGAe.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/69470-santa-clarita-diet",
+    "showname": "Santa Clarita Diet",
+    "seasons": 3,
+    "episodes": 10,
+    "rating": 7.8,
+    "poster": "https://image.tmdb.org/t/p/w400/5rBjNm2sRubaXKBnU904NInFi7P.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/66433-scarlet-heart-ryeo",
+    "showname": "Scarlet Heart: Ryeo",
+    "seasons": null,
+    "episodes": 21,
+    "rating": 8.6,
+    "poster": "https://image.tmdb.org/t/p/w400/pjdPGHqUe60ZGQJR1TItVNaV4it.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/6005-scooby-doo-and-scrappy-doo",
+    "showname": "Scooby-Doo and Scrappy-Doo",
+    "seasons": 5,
+    "episodes": 16,
+    "rating": 6.3,
+    "poster": "https://image.tmdb.org/t/p/w400/ctxdYzdqSlrfKrqEo3bLSrrMLSP.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/926-scooby-doo-where-are-you",
+    "showname": "Scooby-Doo, Where Are You!",
+    "seasons": 2,
+    "episodes": 17,
+    "rating": 7.9,
+    "poster": "https://image.tmdb.org/t/p/w400/lTzUSCtXR77CmGmEHcaxpxu2b4h.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/155292-scott-pilgrim-takes-off",
+    "showname": "Scott Pilgrim Takes Off",
+    "seasons": 1,
+    "episodes": 8,
+    "rating": 7.7,
+    "poster": "https://image.tmdb.org/t/p/w400/nHROk2C6bv8LqtvyYd0tCMURbxC.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/62046-scream-queens",
+    "showname": "Scream Queens",
+    "seasons": 2,
+    "episodes": 13,
+    "rating": 7.1,
+    "poster": "https://image.tmdb.org/t/p/w400/yeayXZYSU8xdmC8i5g5jTdxeggp.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/62823-scream-the-tv-series",
+    "showname": "Scream: The TV Series",
+    "seasons": 3,
+    "episodes": 13,
+    "rating": 7.0,
+    "poster": "https://image.tmdb.org/t/p/w400/cTRUcUnAydqboYfis0IhhY1edDt.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/114472-secret-invasion",
+    "showname": "Secret Invasion",
+    "seasons": 1,
+    "episodes": 6,
+    "rating": 5.8,
+    "poster": "https://image.tmdb.org/t/p/w400/f5ZMzzCvt2IzVDxr54gHPv9jlC9.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/261579-secret-level",
+    "showname": "Secret Level",
+    "seasons": 2,
+    "episodes": 15,
+    "rating": 7.3,
+    "poster": "https://image.tmdb.org/t/p/w400/856MRq23grNxpeVl1PdFgmmLiT0.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/62255-seraph-of-the-end",
+    "showname": "Seraph of the End",
+    "seasons": 3,
+    "episodes": 12,
+    "rating": 7.4,
+    "poster": "https://image.tmdb.org/t/p/w400/5IlxL2PfQ8CyY4TLRru9TcU56b3.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/88055-servant",
+    "showname": "Servant",
+    "seasons": 4,
+    "episodes": 10,
+    "rating": 7.4,
+    "poster": "https://image.tmdb.org/t/p/w400/plsSSobmPSSz4hm8vYMXeIVkJJP.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/85720-shadow-and-bone",
+    "showname": "Shadow and Bone",
+    "seasons": 2,
+    "episodes": 8,
+    "rating": 7.5,
+    "poster": "https://image.tmdb.org/t/p/w400/mS9O9mjPlwpLTne4JgQlDkgREWA.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/104699-shaman-king",
+    "showname": "SHAMAN KING",
+    "seasons": null,
+    "episodes": 53,
+    "rating": 6.9,
+    "poster": "https://image.tmdb.org/t/p/w400/my6AEDKL6NfJYOLZg5g71D3PBe2.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/40143-shaman-king",
+    "showname": "Shaman King",
+    "seasons": null,
+    "episodes": 64,
+    "rating": 8.0,
+    "poster": "https://image.tmdb.org/t/p/w400/bDJLF92frEmKSr1OlCZN5P1kx6W.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/70453-sharp-objects",
+    "showname": "Sharp Objects",
+    "seasons": 1,
+    "episodes": 8,
+    "rating": 8.0,
+    "poster": "https://image.tmdb.org/t/p/w400/1SGovj2qDdkJexvhFiXllj9EYfu.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/92783-she-hulk-attorney-at-law",
+    "showname": "She-Hulk: Attorney at Law",
+    "seasons": 1,
+    "episodes": 9,
+    "rating": 5.2,
+    "poster": "https://image.tmdb.org/t/p/w400/5xz2orV8f0usyrfGNshcoXHmiaV.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/79732-she-ra-and-the-princesses-of-power",
+    "showname": "She-Ra and the Princesses of Power",
+    "seasons": 5,
+    "episodes": 13,
+    "rating": 8.1,
+    "poster": "https://image.tmdb.org/t/p/w400/y6YLtlnV5FGh3Mhs5SUc80IQSV5.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/71886-siren",
+    "showname": "Siren",
+    "seasons": 3,
+    "episodes": 16,
+    "rating": 7.0,
+    "poster": "https://image.tmdb.org/t/p/w400/k906XXqqFMT93v2WMkIOtUcEAlV.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/65784-slasher",
+    "showname": "Slasher",
+    "seasons": 5,
+    "episodes": 8,
+    "rating": 6.8,
+    "poster": "https://image.tmdb.org/t/p/w400/A4j6zNyypLbsn0vJfrajlgNazc5.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/115577-sonic-prime",
+    "showname": "Sonic Prime",
+    "seasons": 3,
+    "episodes": 8,
+    "rating": 7.2,
+    "poster": "https://image.tmdb.org/t/p/w400/mlDVnjgx89bmGvtXnKYDbowpadV.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/32218-soy-tu-duea",
+    "showname": "Soy tu dueña",
+    "seasons": null,
+    "episodes": 146,
+    "rating": 7.3,
+    "poster": "https://image.tmdb.org/t/p/w400/6Ey5MIVKGDXPo4TMZy2FkB7FxUH.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/387-spongebob-squarepants",
+    "showname": "SpongeBob SquarePants",
+    "seasons": 16,
+    "episodes": 26,
+    "rating": 8.2,
+    "poster": "https://image.tmdb.org/t/p/w400/5h0EU2lqBb03dp5vtRuUHJwqzem.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/5148-stargate-universe",
+    "showname": "Stargate Universe",
+    "seasons": 2,
+    "episodes": 20,
+    "rating": 7.6,
+    "poster": "https://image.tmdb.org/t/p/w400/dHOaOZGUhnoRXeK9mhYeSRPh59H.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/103768-sweet-tooth",
+    "showname": "Sweet Tooth",
+    "seasons": 3,
+    "episodes": 8,
+    "rating": 7.7,
+    "poster": "https://image.tmdb.org/t/p/w400/rgMfhcrVZjuy5b7Pn0KzCRCEnMX.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/65708-taboo",
+    "showname": "Taboo",
+    "seasons": 1,
+    "episodes": 8,
+    "rating": 8.3,
+    "poster": "https://image.tmdb.org/t/p/w400/om1wVOuEtwH3krHutIWO9sJzkS5.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/228305-task",
+    "showname": "Task",
+    "seasons": 1,
+    "episodes": 7,
+    "rating": 7.9,
+    "poster": "https://image.tmdb.org/t/p/w400/9JdL1aQdAQiyYYQ2xCqbHaEcZt8.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/114479-the-acolyte",
+    "showname": "The Acolyte",
+    "seasons": 1,
+    "episodes": 8,
+    "rating": 4.3,
+    "poster": "https://image.tmdb.org/t/p/w400/fW2nOB5EXEOh64qufAxeW4AU3AB.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/14009-the-addams-family",
+    "showname": "The Addams Family",
+    "seasons": 2,
+    "episodes": 34,
+    "rating": 8.0,
+    "poster": "https://image.tmdb.org/t/p/w400/twfSYEw4cp5KS9HaxSLh6Q0Bmi6.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/71769-the-alienist",
+    "showname": "The Alienist",
+    "seasons": 2,
+    "episodes": 10,
+    "rating": 7.7,
+    "poster": "https://image.tmdb.org/t/p/w400/zUd4RPbfHuB1zIG2iNI5bdZcQo3.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/33623-the-avengers-earths-mightiest-heroes",
+    "showname": "The Avengers: Earth's Mightiest Heroes",
+    "seasons": 2,
+    "episodes": 26,
+    "rating": 8.3,
+    "poster": "https://image.tmdb.org/t/p/w400/r1JDhMrqCOZKh7lc0vQlRYQ46cE.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/4743-the-boarding-school",
+    "showname": "The Boarding School",
+    "seasons": 7,
+    "episodes": 15,
+    "rating": 8.1,
+    "poster": "https://image.tmdb.org/t/p/w400/eijsq0ZTpQkjMXNkTI1R2v0hNjF.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/33025-the-borgias",
+    "showname": "The Borgias",
+    "seasons": 3,
+    "episodes": 10,
+    "rating": 7.9,
+    "poster": "https://image.tmdb.org/t/p/w400/y6CHDkNDhswuaqwQEC0wgC7MMox.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/152483-the-boys-presents-diabolical",
+    "showname": "The Boys Presents: Diabolical",
+    "seasons": 1,
+    "episodes": 8,
+    "rating": 6.8,
+    "poster": "https://image.tmdb.org/t/p/w400/kZKfZWwFOAicgoKS2IO7oM1GuHZ.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/123192-the-crowded-room",
+    "showname": "The Crowded Room",
+    "seasons": 1,
+    "episodes": 10,
+    "rating": 7.7,
+    "poster": "https://image.tmdb.org/t/p/w400/vRmopCFp0j1eJGbILLsYsYzxmL8.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/103786-the-cuphead-show",
+    "showname": "The Cuphead Show!",
+    "seasons": 3,
+    "episodes": 13,
+    "rating": 7.4,
+    "poster": "https://image.tmdb.org/t/p/w400/l6nGUyxKCi7ODvyfc8qQShliVEd.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/71809-the-dark-crystal-age-of-resistance",
+    "showname": "The Dark Crystal: Age of Resistance",
+    "seasons": 1,
+    "episodes": 10,
+    "rating": 8.4,
+    "poster": "https://image.tmdb.org/t/p/w400/xnMJ7mBC8Jx4emaj7TE4TU0Qm92.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/65817-the-deuce",
+    "showname": "The Deuce",
+    "seasons": 3,
+    "episodes": 9,
+    "rating": 8.1,
+    "poster": "https://image.tmdb.org/t/p/w400/tKFUwmue5g45rthZOyYWd7l931y.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/67676-the-disastrous-life-of-saiki-k",
+    "showname": "The Disastrous Life of Saiki K.",
+    "seasons": 3,
+    "episodes": 120,
+    "rating": 8.3,
+    "poster": "https://image.tmdb.org/t/p/w400/tpym31HVeQgenaubvCxkMF3kFHy.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/49010-the-fall",
+    "showname": "The Fall",
+    "seasons": 3,
+    "episodes": 6,
+    "rating": 8.1,
+    "poster": "https://image.tmdb.org/t/p/w400/fm7nN3nUADA7JGgnFNlOWpXn1tf.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/35753-the-familiar-of-zero",
+    "showname": "The Familiar of Zero",
+    "seasons": 1,
+    "episodes": 13,
+    "rating": 6.9,
+    "poster": "https://image.tmdb.org/t/p/w400/edpG7IAoHtEfQ2XMMjcpBarlOF4.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/236-the-flash",
+    "showname": "The Flash",
+    "seasons": null,
+    "episodes": 21,
+    "rating": 7.1,
+    "poster": "https://image.tmdb.org/t/p/w400/fi1GEdCbyWRDHpyJcB25YYK7fh4.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/236235-the-gentlemen",
+    "showname": "The Gentlemen",
+    "seasons": 2,
+    "episodes": 8,
+    "rating": 8.0,
+    "poster": "https://image.tmdb.org/t/p/w400/tw3tzfXaSpmUZIB8ZNqNEGzMBCy.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/99778-the-god-of-high-school",
+    "showname": "The God of High School",
+    "seasons": 1,
+    "episodes": 13,
+    "rating": 7.2,
+    "poster": "https://image.tmdb.org/t/p/w400/lfa79lR34s6eyNkKjqC76uQEihh.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/67557-the-grand-tour",
+    "showname": "The Grand Tour",
+    "seasons": 7,
+    "episodes": 14,
+    "rating": 8.7,
+    "poster": "https://image.tmdb.org/t/p/w400/3Pcqu6QliBWJ8vsOVClVLddPnZw.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/72844-the-haunting-of-hill-house",
+    "showname": "The Haunting of Hill House",
+    "seasons": 1,
+    "episodes": 10,
+    "rating": 8.5,
+    "poster": "https://image.tmdb.org/t/p/w400/38PkhBGRQtmVx2drvPik3F42qHO.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/48462-the-heirs",
+    "showname": "The Heirs",
+    "seasons": null,
+    "episodes": 20,
+    "rating": 7.5,
+    "poster": "https://image.tmdb.org/t/p/w400/n4RX9QVXjHbMB31TDWqqRLjshgu.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/80169-the-house-of-flowers",
+    "showname": "The House of Flowers",
+    "seasons": 3,
+    "episodes": 13,
+    "rating": 7.5,
+    "poster": "https://image.tmdb.org/t/p/w400/zAIp0cT4Hy6faiPYcOPl1VsuGR.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/2490-the-it-crowd",
+    "showname": "The IT Crowd",
+    "seasons": 4,
+    "episodes": 6,
+    "rating": 8.5,
+    "poster": "https://image.tmdb.org/t/p/w400/qZXkBoOUYzvKI4UCMzDQ5kqWHjh.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/154521-the-kardashians",
+    "showname": "The Kardashians",
+    "seasons": 7,
+    "episodes": 11,
+    "rating": 4.5,
+    "poster": "https://image.tmdb.org/t/p/w400/pLeSPrwEmxwaV1vqzdVfAgnUvXc.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/61888-the-last-man-on-earth",
+    "showname": "The Last Man on Earth",
+    "seasons": 4,
+    "episodes": 18,
+    "rating": 7.4,
+    "poster": "https://image.tmdb.org/t/p/w400/vONS5oceFmM93hsS3q3mvQ1iBC3.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/6673-the-marvelous-misadventures-of-flapjack",
+    "showname": "The Marvelous Misadventures of Flapjack",
+    "seasons": 3,
+    "episodes": 34,
+    "rating": 7.8,
+    "poster": "https://image.tmdb.org/t/p/w400/8dpk0bjBgX93ZkQxEI1daNSj3OW.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/4459-the-muppet-show",
+    "showname": "The Muppet Show",
+    "seasons": 5,
+    "episodes": 24,
+    "rating": 8.4,
+    "poster": "https://image.tmdb.org/t/p/w400/x1aZsosXqaCpZTI12lLpNYIj6HX.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/4625-the-new-batman-adventures",
+    "showname": "The New Batman Adventures",
+    "seasons": 2,
+    "episodes": 13,
+    "rating": 8.4,
+    "poster": "https://image.tmdb.org/t/p/w400/s40Ji11SBKaEYDgJmDc0ifklM59.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/82104-the-order",
+    "showname": "The Order",
+    "seasons": 2,
+    "episodes": 10,
+    "rating": 6.7,
+    "poster": "https://image.tmdb.org/t/p/w400/yMPjmuSd5Fac8YMNOwofGALQWjR.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/84661-the-outsider",
+    "showname": "The Outsider",
+    "seasons": 1,
+    "episodes": 10,
+    "rating": 7.6,
+    "poster": "https://image.tmdb.org/t/p/w400/aMiPwPQjQI1EZN3xP2V0sSU37dc.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/16997-the-pacific",
+    "showname": "The Pacific",
+    "seasons": 1,
+    "episodes": 10,
+    "rating": 8.3,
+    "poster": "https://image.tmdb.org/t/p/w400/x9Y1IMFdY8Ma222KcQadFEau0EB.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/194764-the-penguin",
+    "showname": "The Penguin",
+    "seasons": 1,
+    "episodes": 8,
+    "rating": 8.6,
+    "poster": "https://image.tmdb.org/t/p/w400/vOWcqC4oDQws1doDWLO7d3dh5qc.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/95403-the-peripheral",
+    "showname": "The Peripheral",
+    "seasons": 1,
+    "episodes": 8,
+    "rating": 7.5,
+    "poster": "https://image.tmdb.org/t/p/w400/2e5NNQu9B1fXBNllRj8fzysCguP.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/83097-the-promised-neverland",
+    "showname": "The Promised Neverland",
+    "seasons": 2,
+    "episodes": 12,
+    "rating": 8.1,
+    "poster": "https://image.tmdb.org/t/p/w400/oBgRCpAbtMpk1v8wfdsIph7lPQE.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/80213-the-purge",
+    "showname": "The Purge",
+    "seasons": 2,
+    "episodes": 10,
+    "rating": 6.6,
+    "poster": "https://image.tmdb.org/t/p/w400/9CaS2XFd0Db42grzzVBnWcSkrbg.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/210916-the-recruit",
+    "showname": "The Recruit",
+    "seasons": 2,
+    "episodes": 8,
+    "rating": 7.4,
+    "poster": "https://image.tmdb.org/t/p/w400/mLbFg0u2DPYuB5CILzwWk3kdI8b.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/83095-the-rising-of-the-shield-hero",
+    "showname": "The Rising of the Shield Hero",
+    "seasons": 4,
+    "episodes": 25,
+    "rating": 7.7,
+    "poster": "https://image.tmdb.org/t/p/w400/yjq2n0agGJfmZQ9NpbYIhuBofcq.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/64122-the-shannara-chronicles",
+    "showname": "The Shannara Chronicles",
+    "seasons": 2,
+    "episodes": 10,
+    "rating": 7.1,
+    "poster": "https://image.tmdb.org/t/p/w400/yzoaoBSMww5D22Kfrd2LEJumIzl.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/3854-the-spectacular-spider-man",
+    "showname": "The Spectacular Spider-Man",
+    "seasons": 2,
+    "episodes": 13,
+    "rating": 8.4,
+    "poster": "https://image.tmdb.org/t/p/w400/dCNxOhXT7c4lqYuRpdM3m8s9XDp.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/15079-the-suite-life-on-deck",
+    "showname": "The Suite Life on Deck",
+    "seasons": 3,
+    "episodes": 28,
+    "rating": 6.4,
+    "poster": "https://image.tmdb.org/t/p/w400/1qfSlnVLvgWqV4XlFB8YNvtKTSy.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/120911-the-terminal-list",
+    "showname": "The Terminal List",
+    "seasons": 2,
+    "episodes": 8,
+    "rating": 7.9,
+    "poster": "https://image.tmdb.org/t/p/w400/jbyaKYNexl1poKZnEmB6Qobn60s.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/75191-the-terror",
+    "showname": "The Terror",
+    "seasons": 3,
+    "episodes": 10,
+    "rating": 7.8,
+    "poster": "https://image.tmdb.org/t/p/w400/bKkOcso0YuCBK7dixkn3VSd0dUr.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/83135-the-twilight-zone",
+    "showname": "The Twilight Zone",
+    "seasons": 2,
+    "episodes": 10,
+    "rating": 6.1,
+    "poster": "https://image.tmdb.org/t/p/w400/aEuzZqJTEH9E4JwQyv8JtuCu22B.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/194583-the-walking-dead-dead-city",
+    "showname": "The Walking Dead: Dead City",
+    "seasons": 3,
+    "episodes": 8,
+    "rating": 7.0,
+    "poster": "https://image.tmdb.org/t/p/w400/wq3vuQzQgbS83zX3malAFWMsSwX.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/206586-the-walking-dead-the-ones-who-live",
+    "showname": "The Walking Dead: The Ones Who Live",
+    "seasons": 1,
+    "episodes": 6,
+    "rating": 7.7,
+    "poster": "https://image.tmdb.org/t/p/w400/ywbacot78IuNhGW4uVZPxxxVTkm.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/112160-the-way-of-the-househusband",
+    "showname": "The Way of the Househusband",
+    "seasons": 2,
+    "episodes": 10,
+    "rating": 7.3,
+    "poster": "https://image.tmdb.org/t/p/w400/p63rAZt0s8kedJtdxGwD5VYZafc.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/218589-those-about-to-die",
+    "showname": "Those About to Die",
+    "seasons": 1,
+    "episodes": 10,
+    "rating": 6.7,
+    "poster": "https://image.tmdb.org/t/p/w400/gvz0m4MJ8sAj6yMcQdwN07bNjRY.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/1988-thundercats",
+    "showname": "ThunderCats",
+    "seasons": 4,
+    "episodes": 65,
+    "rating": 7.9,
+    "poster": "https://image.tmdb.org/t/p/w400/6TO2Ma9S6lhlZaXRNH7OVuPwh0U.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/90296-tokyo-vice",
+    "showname": "Tokyo Vice",
+    "seasons": 2,
+    "episodes": 10,
+    "rating": 8.1,
+    "poster": "https://image.tmdb.org/t/p/w400/za5QWRfCLwgRLLVXUkx3NUSAm6G.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/100049-tonikawa-over-the-moon-for-you",
+    "showname": "TONIKAWA: Over the Moon for You",
+    "seasons": 2,
+    "episodes": 16,
+    "rating": 7.7,
+    "poster": "https://image.tmdb.org/t/p/w400/jJKTrIfZKoFV66HGMzSa4tkObK0.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/4232-top-cat",
+    "showname": "Top Cat",
+    "seasons": null,
+    "episodes": 30,
+    "rating": 7.1,
+    "poster": "https://image.tmdb.org/t/p/w400/hnWYwPE7nwqAD1OGLEEXyML5LaH.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/42916-toradora",
+    "showname": "Toradora!",
+    "seasons": null,
+    "episodes": 25,
+    "rating": 7.9,
+    "poster": "https://image.tmdb.org/t/p/w400/gUE1zdXPkEBdEUtmJ2rkcGON41s.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/32910-transformers-prime",
+    "showname": "Transformers: Prime",
+    "seasons": 3,
+    "episodes": 26,
+    "rating": 8.1,
+    "poster": "https://image.tmdb.org/t/p/w400/ilOKsGRHYc78R2tSMusAd3xGJWq.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/26453-trigun",
+    "showname": "TRIGUN",
+    "seasons": null,
+    "episodes": 26,
+    "rating": 8.2,
+    "poster": "https://image.tmdb.org/t/p/w400/lwLFZFB3S2PeOLtWksaWerF6B4D.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/68267-trollhunters-tales-of-arcadia",
+    "showname": "Trollhunters: Tales of Arcadia",
+    "seasons": 3,
+    "episodes": 26,
+    "rating": 8.4,
+    "poster": "https://image.tmdb.org/t/p/w400/gF03zm8x9B10QyPZyzc8Vgc8lqx.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/111819-tsukimichi-moonlit-fantasy",
+    "showname": "TSUKIMICHI -Moonlit Fantasy-",
+    "seasons": 2,
+    "episodes": 25,
+    "rating": 7.7,
+    "poster": "https://image.tmdb.org/t/p/w400/7XQ2dMEARAdUZQscnIJFPI54q3r.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/66078-twin-star-exorcists",
+    "showname": "Twin Star Exorcists",
+    "seasons": null,
+    "episodes": 50,
+    "rating": 7.0,
+    "poster": "https://image.tmdb.org/t/p/w400/dbGtsHEuV8zREyMEXmf5YFtUZyL.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/133748-twisted-metal",
+    "showname": "Twisted Metal",
+    "seasons": 3,
+    "episodes": 12,
+    "rating": 7.3,
+    "poster": "https://image.tmdb.org/t/p/w400/zMwMClR9y7RBeVWMEmNn8LwUJHz.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/91275-unbelievable",
+    "showname": "Unbelievable",
+    "seasons": 1,
+    "episodes": 8,
+    "rating": 8.3,
+    "poster": "https://image.tmdb.org/t/p/w400/jHOrNJNM03Lsjdw7nsw7TlqBOhd.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/248852-untamed",
+    "showname": "UNTAMED",
+    "seasons": 2,
+    "episodes": 6,
+    "rating": 7.1,
+    "poster": "https://image.tmdb.org/t/p/w400/tclYY8RGieQwkJXDxZGf505Zybr.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/98986-uzaki-chan-wants-to-hang-out",
+    "showname": "Uzaki-chan Wants to Hang Out!",
+    "seasons": 2,
+    "episodes": 13,
+    "rating": 6.8,
+    "poster": "https://image.tmdb.org/t/p/w400/kg7PD9mqKUlJulKTeHzVwHAKqqR.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/21494-v",
+    "showname": "V",
+    "seasons": 2,
+    "episodes": 13,
+    "rating": 6.8,
+    "poster": "https://image.tmdb.org/t/p/w400/b2w3vq0uvfmahS6dB41WeWByhVy.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/92983-vagabond",
+    "showname": "Vagabond",
+    "seasons": null,
+    "episodes": 16,
+    "rating": 8.1,
+    "poster": "https://image.tmdb.org/t/p/w400/8Sud9wqG7WZMXesZhPZ4lergRvp.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/126725-velma",
+    "showname": "Velma",
+    "seasons": 2,
+    "episodes": 11,
+    "rating": 1.6,
+    "poster": "https://image.tmdb.org/t/p/w400/zxkNhuPSHeDv3yA7sFu2RuEOGgR.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/88803-vinland-saga",
+    "showname": "Vinland Saga",
+    "seasons": 2,
+    "episodes": 24,
+    "rating": 8.8,
+    "poster": "https://image.tmdb.org/t/p/w400/vUHlpA5c1NXkds59reY3HMb4Abs.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/75214-violet-evergarden",
+    "showname": "Violet Evergarden",
+    "seasons": 1,
+    "episodes": 13,
+    "rating": 8.4,
+    "poster": "https://image.tmdb.org/t/p/w400/61EwFPqc0r1uJo6la49J55F8bQ8.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/61720-violetta",
+    "showname": "Violetta",
+    "seasons": 3,
+    "episodes": 80,
+    "rating": 5.6,
+    "poster": "https://image.tmdb.org/t/p/w400/b3MUGJeKakAZwQa7lNJxTP1pJmD.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/79788-watchmen",
+    "showname": "Watchmen",
+    "seasons": 1,
+    "episodes": 9,
+    "rating": 8.2,
+    "poster": "https://image.tmdb.org/t/p/w400/m8rWq3j73ZGhDuSCZWMMoE9ePH1.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/53425-wayward-pines",
+    "showname": "Wayward Pines",
+    "seasons": 2,
+    "episodes": 10,
+    "rating": 7.3,
+    "poster": "https://image.tmdb.org/t/p/w400/mK9MowBCPEn7RbsDXqN0MxyPc4.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/4331-wonder-woman",
+    "showname": "Wonder Woman",
+    "seasons": 3,
+    "episodes": 24,
+    "rating": 7.0,
+    "poster": "https://image.tmdb.org/t/p/w400/7vHxWO6ahByDWzWufFL48MXaktT.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/138502-x-men-97",
+    "showname": "X-Men '97",
+    "seasons": 3,
+    "episodes": 10,
+    "rating": 8.7,
+    "poster": "https://image.tmdb.org/t/p/w400/9Ycz7yYRf9V4jk3YXwcZhFtbNcF.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/36250-xxxholic",
+    "showname": "xxxHOLiC",
+    "seasons": 2,
+    "episodes": 25,
+    "rating": 7.6,
+    "poster": "https://image.tmdb.org/t/p/w400/5yY74hwLcG5rQSe6cEUW3HjO3J9.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/125910-young-royals",
+    "showname": "Young Royals",
+    "seasons": 3,
+    "episodes": 6,
+    "rating": 8.2,
+    "poster": "https://image.tmdb.org/t/p/w400/AuA5iFDdNTBrEqmnW2cWTHUr8sI.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/86430-your-honor",
+    "showname": "Your Honor",
+    "seasons": 2,
+    "episodes": 10,
+    "rating": 7.6,
+    "poster": "https://image.tmdb.org/t/p/w400/1rWWgTEDFdV330aLgCoaq7I56lk.jpg"
+  },
+  {
+    "link": "https://seriesgraph.com/show/288-mucha-lucha",
+    "showname": "¡Mucha Lucha!",
+    "seasons": 3,
+    "episodes": 22,
+    "rating": 5.8,
+    "poster": "https://image.tmdb.org/t/p/w400/w12B6di7moo2otX4X4y3y3gKagz.jpg"
+  }
+]

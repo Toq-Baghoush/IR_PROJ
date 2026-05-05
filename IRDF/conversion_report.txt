@@ -1,0 +1,42 @@
+=== CONVERSION REPORT ===
+Input file    : shows.json
+Output file   : shows.csv
+Input records : 302
+Output rows   : 302
+Skipped rows  : 0
+Dropped rows  : 0
+Warnings      : 0
+Field order   : ['link', 'showname', 'seasons', 'episodes', 'rating', 'poster']
+
+=== NULL HANDLING ===
+Strategy: None and empty string both saved as '' in CSV
+  '' means MISSING — not zero, not unknown, not 'None'
+  link: no nulls
+  showname: no nulls
+  seasons (44 nulls): ['Banana Fish', 'Boruto: Naruto Next Generations', 'Boys Over Flowers', 'Brazil Avenue', 'Candy Candy', 'Claymore', 'Dejémonos de Vargas', 'Descendants of the Sun', 'Dinastía Casillas', 'Distilling Love', "Don't Mess with the Angel", 'Dororo', 'Dragon Ball DAIMA', 'Dragon Ball Super', 'Extraordinary Attorney Woo', 'FlashForward', 'Forever', 'Freaks and Geeks', 'Golden Time', 'Hometown Cha-Cha-Cha', "It's Okay to Not Be Okay", 'Knight Rider', 'La fea más bella', 'La tormenta', 'Marry My Husband', 'María la del Barrio', 'Mazinger Z', 'Meteor Garden', 'Mouse', 'Mr. Queen', 'My Love Story!!', 'Sam & Cat', 'Samurai Champloo', 'Scarlet Heart: Ryeo', 'SHAMAN KING', 'Shaman King', 'Soy tu dueña', 'The Flash', 'The Heirs', 'Top Cat', 'Toradora!', 'TRIGUN', 'Twin Star Exorcists', 'Vagabond']
+  episodes: no nulls
+  rating: no nulls
+  poster: no nulls
+
+=== DUPLICATE HANDLING ===
+True duplicates (same link) dropped : 0
+Same name, different link (kept)    : 2
+  'dark matter': ['https://seriesgraph.com/show/62425-dark-matter', 'https://seriesgraph.com/show/196322-dark-matter']
+  'shaman king': ['https://seriesgraph.com/show/104699-shaman-king', 'https://seriesgraph.com/show/40143-shaman-king']
+
+=== WARNINGS ===
+  none
+
+=== ENCODING ===
+  ensure_ascii=False : accented chars preserved (é, à, ö...)
+  utf-8-sig          : BOM added for Excel compatibility
+
+=== RATING STATS ===
+  min : 1.6
+  max : 9.2
+  avg : 7.52
+  count with rating : 302 / 302
+
+=== POSTER ===
+  TMDB size used : w400
+  base URL       : https://image.tmdb.org/t/p/w400/
